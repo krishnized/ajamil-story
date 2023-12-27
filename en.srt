@@ -3121,11 +3121,11 @@ Our pilgrimage has come to an end.
 696
 01:08:03,015 --> 01:08:08,747
 We're going to rest today, take a bath,
-and tomorrow we will
+and tomorrow we will…
 
 697
 01:08:08,747 --> 01:08:11,723
-perform auspicious rituals
+…perform auspicious rituals
 and feed the Brahmins.
 
 698
@@ -3161,7 +3161,7 @@ You can’t leave them
 even for a minute.
 
 705
-01:08:38,958 --> 01:08:40,100
+01:08:38,958 --> 01:08:40,129
 What else is human life for?
 
 706
@@ -3240,7 +3240,8 @@ Come on, let’s see…
 
 722
 01:09:47,418 --> 01:09:50,993
-Come on, show me, what’s in your bag?
+Come on, show me,
+what’s in your bag?
 
 723
 01:09:53,111 --> 01:09:57,351
@@ -4491,4 +4492,3 @@ Goodbye son…
 1000
 01:44:16,337 --> 01:44:18,746
 Dad, dad…
-
