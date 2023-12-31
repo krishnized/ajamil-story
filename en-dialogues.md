@@ -435,12 +435,66 @@ Ajamil: Okay.
 
 25.
 
-Ajamila: I want to spend tonight in the yard. I can no longer and do not want to stay in this house. Bring a bed out for me.
-
+Father: I want to spend tonight in the yard. I can no longer and do not want to stay in this house. Bring a bed out for me.
 Father: Ajamila, come to your father.
-
 Ajamila: What is it, father?
-
 Father: My time has come, there is no one else for me to think about but the Lord. And I won’t stay here anymore. I will leave… I hope it will be easier for you.
+Father: Let’s go, daughter… 
+Varsha: Ajamila, it’s getting dark. It’s time for us to go to bed. And you know — I need all your attention and care.
+Ajamila: Alright.
+Varsha: Ajamila, I am waiting for you… I am waiting for you…
 
-Ajamila: Let’s go, daughter…
+26.
+
+Kamali: Father… Father… why? It hurts! It hurts so much!
+Father: The stars are so beautiful tonight! They have always been like this, as long as I can remember.
+Father: I look at them every day. My days are not like one another, but the stars always remain the same.
+Father: Oh Supreme Lord, master of my life, You are unchanging, like the stars in the sky. And unchanging is Your love for us. Yet we, blinded by our own pain, cannot see Your love in our lives…
+Father: Oh my Narayana, oh Merciful One, I ask You, help me to open my heart, enter into it… I am waiting for You…
+Father: Who is there? My Lord, is it You? I see You… I recognize You! How beautiful You are… You have come for me… You Yourself have come for me! I am ready to go.
+Kamali: Father! Father! Father! Father! Father! Father!
+
+27. 
+
+Kamali: Your father died last night.
+Ajamila: Father!
+Father: I pray to the Almighty give you spiritual wisdom and strength to never stray from the path of righteousness and virtue.
+Ajamila: Do not leave me, I need your strength.
+Father: My blessings will never leave you, son, you can always count on me.
+Ajamila: And you will come to see me in the ashram, won’t you?
+Father: Of course, son… We will see each other constantly.
+Ajamila: That’s good, that’s so good!
+Ajamila: Father! What have I done? …what have I done…
+Kamali: Not only your father died tonight… Tonight, your wife also died.
+Ajamila: What? What are you saying, Kamali?..
+Kamali: The Kamali who once married Ajamila, a man of duty and honor, no longer exists. I can no longer stay here… I want to leave. Are you letting me go?
+Ajamila: I let you go… Kamali…
+Kamali: Thank you, Prabhu. Please forgive me. I couldn’t be the wife you deserved.
+Ajamila: No… You were… Kamali… Kamali… Forgive me if you can.
+
+28.
+
+Varsha: We’ve run out of money.
+Ajamila: I know, you’ve told me already.
+Varsha: And I need some more clothes.
+Ajamil: Yesterday, I received a piece of fabric, a pot of oil, and five silver coins. What can we give to the temple from this?
+Father: I think three coins. Take these coins and give them to the head pujari.
+Ajamil: Yes, father. 
+Father: Daughter, can we manage with two coins and a pot of oil for a week?
+Kamali: Of course, father. What shall we do?
+Ajamila: I don’t know, I’ll go and figure it out. Figure it out?
+Varsha: Maybe it’s better I figure it out. Maybe I should invite someone over?
+Ajamila: What? Forget about that! I'll take care of everything! No guests! I’ll provide for you! And forget about your old profession!
+Varsha: Do you think this junk is worth anything?
+Ajamila: Probably not.
+Varsha: Then why do you have it?
+Ajamila: I’ll try to exchange it for some rice. Some rice…
+Varsha: Tell me, dear, do you plan to feed me anything besides rice?
+Varsha: I would love some fresh fish…
+Ajamila: Varsha, I’ve told you so many times!
+Varsha: Varsha, Varsha. If you don’t want fish, fine. But I do. Fried… a bit spicy… mmm, it’s so delicious…
+Varsha: Here’s what I’ll tell you, Ajamila. A month is a long time. Somehow we managed it. And I am going to keep living. But I am going to live… not like this.
+Ajamila: What do you mean?
+Varsha: When I was alone, I only relied on myself. But now I have you. So, please, provide for me. Especially since… I’ll have to eat more soon.
+Ajamila: Why? Are you planning to gain weight?
+Varsha: No, but I must… Why are you looking at me like that? We’re going to have a child. A little Ajamila.
