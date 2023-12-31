@@ -1,4 +1,4 @@
-Scene 1.
+1.
 
 Ajamila: There seem to be too many poor lately!
 Friend: What do you mean?
@@ -13,7 +13,7 @@ Friend: Yes, there was a different Ajamila once… A different life… everythin
 Ajamila: And what did you do?
 Friend: I was a Brahmin… A priest.
 
-Scene 2.
+2.
 
 Father: …and then he rushes to Prahlada, shakes him by the shoulders and screams: “Where, where is your Vishnu? Show Him!”
 Son: And Prahlada?
@@ -33,7 +33,7 @@ Father: Yes, my son. This is the ultimate truth.
 Son: Father, are you okay?
 Father: Yes, my boy, I’m fine, just a bad omen.
 
-Scene 3.
+3.
 
 Father: Father.
 Ajamila: What, my boy?
@@ -52,7 +52,7 @@ Guru: Of course, my boy.
 Ajamila: Father, did you hear?
 Father: Yes, my boy, yes, wonderful!
 
-Scene 4.
+4.
 
 Guru: Ajamila…
 Ajamila: Yes, Gurudev.
@@ -63,7 +63,7 @@ Ajamila: I promise, Gurudev.
 Guru: Name me the Brahmanical qualities you will exhibit.
 Ajamila: Honesty, purity, ability to perform austerities, calmness, freedom from anger, all-forgiveness, non-violence towards any living being.
 
-Scene 5.
+5.
 
 Father: Ajamila.
 Ajamila: Yes, father.
@@ -82,7 +82,7 @@ Father: Right. But don’t smell them!
 Father: Go right now, you’ll be back by lunchtime.
 Father: And after lunch, we have some chores to do.
 
-Scene 6.
+6.
 
 Varsha: What? Right here? Right now? Are you sure?
 Man: Please! My Goddess! Do you want me dead?
@@ -93,7 +93,7 @@ Man: Please be kind to me!
 Varsha: Yes? Goddess!
 Man: Yes, my fool!
 
-Scene 7.
+7.
 
 Father: Father, I can’t take it anymore. Where is he?
 Kamali: …I don’t know.
@@ -106,7 +106,7 @@ Kamali: There are always many robbers in the forest! Or what if he was bitten by
 Father: No! It was a scorpion. There are always many poisonous scorpions in the forest. And now my Ajamila lying in the grass, dying from its venom.
 Kamali: I will go look for him!
 
-Scene 8.
+8.
 
 Varsha: Well, say something to me.
 Man: What?
@@ -135,7 +135,7 @@ Man: So, in a week?.. My goddess?
 Varsha: Go already.
 Man: Bye then.
 
-Scene 9.
+9.
 
 Father: No daughter, you’re not going to the forest alone. Sit down!
 Kamali: How can I just sit and do nothing?
@@ -145,7 +145,7 @@ Father: Ah, daughter, daughter.
 Kamali: My heart hurts like never before.
 Kamali: Something terrible has happened to him. Father, I feel something terrible.
 
-Scene 10.
+10.
 
 Varsha: You are… so beautiful… like a flower…
 Ajamila: Flower?.. Everyone tells me I’m a goddess!
@@ -179,7 +179,7 @@ Ajamila: Did this happen to me?
 Ajamila: I have my wife Kamali! Father… My path!
 Ajamila: What’s happening to me?
 
-Scene 11.
+11.
 
 Kamali: Ajamila?! Where have you been? I almost died…
 Ajamila: Ajamila. What’s wrong with you? What happened?
@@ -193,7 +193,7 @@ Ajamila: Nothing happened! It just turned out that way.
 Ajamila: Nothing happened!
 Ajamila: Everything is fine with me! Fine! All good!
 
-Scene 12.
+12.
 
 Varsha: Ajamila!
 Varsha: Brahman Ajamila!
@@ -213,7 +213,7 @@ Varsha: I am much more skilled in love than she is.
 Varsha: And how sweet my lips are! What are you waiting for?
 Varsha: Taste them!
 
-Scene 13.
+13.
 
 Kamali: Prabhu, are you awake?
 Ajamila: Why aren’t you getting up? Are you waiting for me?
@@ -223,7 +223,7 @@ Kamali: We need to prepare.
 Ajamila: Yes, we do!
 Varsha:You probably also want me to love you? You know, I’m ready. Because I like you. Do you hear me? Ajamila!
 
-Scene 14.
+14.
 
 Father: Purnahuti.
 Father: The Lord joyfully entered your home.
@@ -245,7 +245,7 @@ Father: To you and your son, with heartfelt gratitude, Lochan Babu.
 Varsha: Money! Money… Coins…!
 Varsha: My love costs something…
 
-Scene 15.
+15.
 
 Kamali: …He will have beautiful eyes like yours…
 Kamali: And let the chin be like his grandfather’s.
@@ -279,7 +279,7 @@ Ajamila: Yes, I hear you…
 Kamali: Now everything will be fine. You will feel better soon.
 Kamali: Just rest for a bit and you’ll feel better.
 
-Scene 16.
+16.
 Ajamila: Oh Lord, what’s happening to me?
 Ajamila: This has never happened before.
 Ajamila: Why can’t I get her out of my head?
@@ -293,7 +293,7 @@ Varsha: …And if you want to find me, you will….
 Varsha: …My love costs something….
 Ajamila: Forgive me. I can’t. Her hands, voice… I can’t…
 
-Scene 17.
+17.
 
 Varsha: Well, you know, if you have money — come in, but if not…
 Man: Not today, but I'll have it tomorrow… You know that.
@@ -315,7 +315,7 @@ Man: Into an old woman who no one needs!
 Man: Be happy, Brahman.
 Man: We’ll meet again.
 
-Scene 18.
+18.
 
 Varsha: Well, hello, Brahman Ajamila.
 Ajamila: Hello… uh…
@@ -332,3 +332,115 @@ Guru: Ajamila!
 Son: Yes, Gurudev…
 Guru: Once long ago, I asked you… Are you ready to follow the principles of religion to the end of your life …What did you answer me then?
 Son: That I am ready, Gurudev…
+
+19.
+
+Kamali: Ajamila…
+Father: Ajamila, is that it?
+Ajamila: What do you want?
+Father: You were gone for almost a day, you come and just go to sleep? Did you want to tell me anything?
+Father: No way, Ajamila. You will explain everything to me. Where have you been? Why did you make
+me and your wife worry? And where is the money that was donated to us?
+Ajamila: It was my money! I earned it! And now forget it! There’s no more money.
+Father: How dare you raise your voice at me?
+Ajamila: Leave me alone!
+Father: Let’s go, daughter… Let it be…
+Father: Where were you? And where is the money that was donated to us?
+Ajamila: It was my money, I earned it,
+Ajamila: forget about it, there’s no more money! Leave me alone!
+Kamali: Father!
+
+20.
+
+Varsha: You left early in the morning, and now look — it’s noon. Only a little time has passed…
+Ajamila: I wanted to sleep, but I couldn’t. They didn’t let me…
+Varsha: Who didn’t let you?
+Ajamila: Well, father and wife.
+Varsha: Whose wife?
+Ajamila: Mine.
+Varsha: So you’re married?
+Ajamila: Yes, but it’s nothing serious.
+Varsha: Well, if it’s not serious for you, it’s even less so for me.
+Varsha: So, you have a family… Good… And what did you tell them?
+Ajamila: What could I tell them?
+Varsha: Do you not care?
+Ajamila: …not really. Though now it’s easier. Just three days ago, it was very hard for me. But then something changed.
+Ajamila: Something inside me burned out. I no longer want to think and weigh every step. And to be afraid of what others will say. I’ve done that my whole life.
+Ajamila: I want to breathe freely, to live without fear and remorse. After that meeting with you, there, in the forest…
+Ajamila: I couldn’t think of anything else but you. Neither my family nor my duties, nothing could make me forget you. Your hands, your voice, your eyes.
+Ajamila: I don’t want to play the role of a faithful husband and loving son, when here is a burning fire inside me.
+Ajamila: I can’t, and I don’t want to. I just want to be with you, only with you.
+Varsha: So what… have you fallen in love with me?
+Ajamila: Yes…
+Varsha: Have you really found something special in me?
+Ajamila: Oh! You don’t even know how wonderful you are! You are my perfection. You are life itself to me! I just can’t live without you! I want to be only with you… only with you…
+
+21.
+
+Kamali: Where is he?
+Lady: I just saw Ajamila… He went into the house of a well-known prostitute.
+Father: I thought so.
+Lady: Will you go get him?
+Father: No. He couldn’t be kept by a young wife, nor by the path of religion he has followed for so long. If he has made his choice, what can I do? It’s all my fault. I invested everything I had in Ajamila. But he made his own choice.
+Father: In an instant, the Lord rid me of my pride, my hopes, my expectations… My good name…
+Father: All I can do now is pray that the Lord doesn’t leave him.
+
+22.
+
+Varsha: So what should we do?
+Ajamila: What do you mean?
+Varsha: You’ve been living with me for several days now… Your money has long run out. And you don’t have any new money. And all my… admirers… You chased them away…
+Ajamila: If you’re worried about money, that’s not a problem for me.
+Varsha: Really? That’s good news.
+Ajamila: Yes. It was never a problem for me.
+Varsha: And where will we live?
+Ajamila: Live?.. We can live at my place. I will bring you to my house. You’ll have a separate room. If you agree to be with me — I’ll provide for you.
+Varsha: Tell me, do Brahmans chant something every day? You have some mantras, don’t you?
+Ajamila: Three times a day… A hymn to praise the Sun God…
+Varsha: Three times a day! When was the last time you chanted them?
+Ajamila: Well, probably last week. That was the last time.
+Varsha: And then you found love?
+Ajamila: Oh come on, I really do love you.
+Varsha: Love… I believe… You don’t give up everything like that… And I don’t…
+Ajamila: Okay, okay. I understand…
+Varsha: Tell your family that I am… a maid. If they believe it, of course.
+Varsha: Tell your wife…
+Varsha: Although… Say whatever you want… But remember, I won’t work for you. You will be the one bringing money to me… For my love… Got it?
+Varsha: We still have time left… How shall we spend it?
+Ajamila: Come up to me, I’ll whisper it in your ear.
+Ajamila: You know how much I adore you…
+
+23.
+
+Kamali: Ajamila… You came! You're back!
+Varsha: Is this your wife?
+Kamali: Prabhu… Who is this woman?
+Ajamila: Kamali, meet Varsha.
+Kamali: Why has she come to our house?
+Ajamila: She will help you with the household.
+Kamali: Prabhu, am I not managing by myself?
+
+24.
+
+Varsha: So what, am I going to live here?
+Ajamil: Yes…
+Varsha: And… She… Where will she live?
+Ajamil: There…
+Varsha: Ajamila, I need a bed here. I need shelves for my clothes and jewelry boxes. You will buy me jewelry, won’t you? I remember, you promised… And tell her not to hover over me. This is now my home too. And we will live here together.
+Varsha: Wait… Where are you going?
+Varsha: Now, every time she wants to cry, you’ll run to comfort her? Do you think that’s normal?
+Ajamil: She is my wife!
+Varsha: And so? I need attention too. You don’t want to get me upset, do you?
+Ajamil: Okay.
+
+25.
+
+Ajamila: I want to spend tonight in the yard. I can no longer and do not want to stay in this house. Bring a bed out for me.
+
+Father: Ajamila, come to your father.
+
+Ajamila: What is it, father?
+
+Father: My time has come, there is no one else for me to think about but the Lord. And I won’t stay here anymore. I will leave… I hope it will be easier for you.
+
+Ajamila: Let’s go, daughter…
