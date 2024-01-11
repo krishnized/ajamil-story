@@ -1,2 +1,14 @@
 
 .DS_Store
+en-soundtrack.band/**/*
+node_modules/**/*
+*.mp4
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.aif
+*.aiff
+*.ogg
+*.sfk
+*.m4v
