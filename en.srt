@@ -1,7 +1,7 @@
 1
 00:00:58,000 --> 00:01:04,589
-There seem to be
-too many poor lately!
+There seems to be
+too many poor people lately!
 
 2
 00:01:04,589 --> 00:01:07,240
@@ -4492,4 +4492,3 @@ Goodbye son…
 1000
 01:44:21,837 --> 01:44:24,246
 Dad, dad…
-

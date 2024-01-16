@@ -95,10 +95,9 @@ Man: Yes, my fool!
 
 7.
 
-Father: Father, I can’t take it anymore. Where is he?
-Kamali: …I don’t know.
-Father: Father, what should we do?
-Kamali: A whole day has passed, and he’s still not back.
+Kamali: Father, I can’t take it anymore. Where is he?
+Father: …I don’t know.
+Kamali: Father, what should we do? A whole day has passed, and he’s still not back.
 Father: First, calm down. Sit, eat. You haven’t eaten anything since morning.
 Kamali: A whole day has passed. The sun is about to set, and he’s still not back.
 Father: What if something happened to him? What if he was attacked by robbers?
@@ -439,7 +438,7 @@ Father: I want to spend tonight in the yard. I can no longer and do not want to 
 Father: Ajamila, come to your father.
 Ajamila: What is it, father?
 Father: My time has come, there is no one else for me to think about but the Lord. And I won’t stay here anymore. I will leave… I hope it will be easier for you.
-Father: Let’s go, daughter… 
+Father: Let’s go, daughter…
 Varsha: Ajamila, it’s getting dark. It’s time for us to go to bed. And you know — I need all your attention and care.
 Ajamila: Alright.
 Varsha: Ajamila, I am waiting for you… I am waiting for you…
@@ -454,7 +453,7 @@ Father: Oh my Narayana, oh Merciful One, I ask You, help me to open my he
 Father: Who is there? My Lord, is it You? I see You… I recognize You! How beautiful You are… You have come for me… You Yourself have come for me! I am ready to go.
 Kamali: Father! Father! Father! Father! Father! Father!
 
-27. 
+27.
 
 Kamali: Your father died last night.
 Ajamila: Father!
@@ -479,7 +478,7 @@ Ajamila: I know, you’ve told me already.
 Varsha: And I need some more clothes.
 Ajamil: Yesterday, I received a piece of fabric, a pot of oil, and five silver coins. What can we give to the temple from this?
 Father: I think three coins. Take these coins and give them to the head pujari.
-Ajamil: Yes, father. 
+Ajamil: Yes, father.
 Father: Daughter, can we manage with two coins and a pot of oil for a week?
 Kamali: Of course, father. What shall we do?
 Ajamila: I don’t know, I’ll go and figure it out. Figure it out?
