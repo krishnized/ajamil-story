@@ -1,7 +1,7 @@
-1
-00:00:58,000 --> 00:01:04,589
+﻿1
+00:00:58,300 --> 00:01:04,589
 There seem to be
-too many poor people lately!
+too many poor people lately.
 
 2
 00:01:04,589 --> 00:01:07,240
@@ -368,7 +368,7 @@ of your life,
 81
 00:05:53,919 --> 00:05:57,000
 and be faithful
-to the Brahmanical vows?
+to the Brahminical vows?
 
 82
 00:05:57,300 --> 00:05:58,960
@@ -389,7 +389,7 @@ I promise, Gurudev
 
 86
 00:06:04,720 --> 00:06:08,156
-Name me the Brahmanical
+Name me the Brahminical
 qualities you will exhibit.
 
 87
@@ -563,3932 +563,3949 @@ The sun is about to set,
 and he’s still not back.
 
 124
-00:11:01,173 --> 00:11:06,600
+00:11:01,172 --> 00:11:06,038
 What if something happened to him?
 What if he was attacked by robbers?
 
 125
-00:11:06,600 --> 00:11:11,720
+00:11:06,038 --> 00:11:08,954
 There are always many robbers in the forest!
-Or what if he was bitten by a snake?
 
 126
+00:11:08,954 --> 00:11:11,719
+Or what if he was bitten by a snake?
+
+127
 00:11:11,720 --> 00:11:12,720
 No!
 
-127
+128
 00:11:12,720 --> 00:11:15,080
 It was a scorpion.
 
-128
+129
 00:11:15,080 --> 00:11:18,000
 There are always many poisonous
 scorpions in the forest.
 
-129
+130
 00:11:18,171 --> 00:11:20,750
 And now my Ajamila
 
-130
+131
 00:11:20,750 --> 00:11:25,962
 lying in the grass,
 dying from its venom.
 
-131
+132
 00:11:26,840 --> 00:11:29,799
 I will go look for him!
 
-132
+133
 00:11:29,799 --> 00:11:32,328
 Well, say something to me.
 
-133
+134
 00:11:32,328 --> 00:11:33,448
 What?
 
-134
+135
 00:11:33,741 --> 00:11:36,168
 Well, make something up.
 
-135
+136
 00:11:36,168 --> 00:11:38,602
 You are so vocal,
 after all.
 
-136
+137
 00:11:38,602 --> 00:11:42,010
 Sorry, dear, I have to go.
 
-137
+138
 00:11:43,411 --> 00:11:45,651
 Won’t you say a word?
 
-138
+139
 00:11:46,624 --> 00:11:47,744
 Why should I?
 
-139
+140
 00:11:49,839 --> 00:11:54,030
 I want to hear about
 your passion one more time.
 
-140
+141
 00:11:54,990 --> 00:11:55,990
 You’ll hear it.
 
-141
+142
 00:11:56,363 --> 00:11:57,363
 Later.
 
-142
+143
 00:11:58,215 --> 00:11:59,389
 But I want it now.
 
-143
+144
 00:12:00,466 --> 00:12:02,453
 Later. I’m in a hurry.
 
-144
+145
 00:12:02,453 --> 00:12:05,115
 Well, tell me I’m a goddess.
 
-145
+146
 00:12:05,115 --> 00:12:06,589
 Well, goddess.
 
-146
+147
 00:12:06,589 --> 00:12:09,010
 Not like that! Say it
 the way you did before!
 
-147
+148
 00:12:09,010 --> 00:12:12,205
 Like this: “My Goddess”!
 
-148
+149
 00:12:12,747 --> 00:12:14,835
 I didn’t say that.
 
-149
+150
 00:12:15,031 --> 00:12:16,441
 What?
 
-150
+151
 00:12:16,441 --> 00:12:22,321
 Like this “My Goddess”.
 I never said that.
 
-151
+152
 00:12:22,746 --> 00:12:25,146
 I didn’t say it like that!
 
-152
+153
 00:12:25,146 --> 00:12:28,480
 Didn’t say it?
 Ah, you rascal!
 
-153
+154
 00:12:28,480 --> 00:12:30,459
 Get away from me.
 
-154
+155
 00:12:30,459 --> 00:12:31,800
 Calm down!
 Everything’s fine.
 
-155
+156
 00:12:31,800 --> 00:12:33,736
 Nothing happened.
 
-156
+157
 00:12:33,736 --> 00:12:36,539
 Not fine!
 You’re cold-hearted!
 
-157
+158
 00:12:36,539 --> 00:12:38,270
 A stone, that’s who you are!
 
-158
+159
 00:12:38,270 --> 00:12:40,392
 Can’t even be nice to me.
 
-159
+160
 00:12:40,840 --> 00:12:44,130
 Yes, I can be nice…
 But later.
 
-160
+161
 00:12:44,200 --> 00:12:46,938
 Then we’ll talk later.
 
-161
+162
 00:12:48,177 --> 00:12:55,740
 So, in a week?..
 My goddess?
 
-162
+163
 00:12:55,740 --> 00:12:57,600
 Go away.
 
-163
+164
 00:12:58,588 --> 00:13:00,447
 Bye then.
 
-164
+165
 00:13:02,069 --> 00:13:05,970
 No daughter, you’re not going
 to the forest alone. Sit down!
 
-165
+166
 00:13:05,970 --> 00:13:10,730
 How can I just sit
 and do nothing?
 
-166
+167
 00:13:10,730 --> 00:13:13,171
 I cannot live without him.
 
-167
+168
 00:13:13,171 --> 00:13:18,086
 I will pray.
 I hope he returns soon.
 
-168
+169
 00:13:21,209 --> 00:13:22,980
 Ah, daughter, daughter.
 
-169
-00:13:26,004 --> 00:13:30,740
+170
+00:13:26,004 --> 00:13:30,082
 My heart hurts like
 never before.
 
-170
-00:13:30,747 --> 00:13:35,250
+171
+00:13:30,082 --> 00:13:33,463
 Something terrible has happened to him.
+
+172
+00:13:33,463 --> 00:13:36,250
 Father, I feel something terrible.
 
-171
+173
 00:13:36,250 --> 00:13:39,889
 You are… so beautiful…
 like a flower…
 
-172
+174
 00:13:42,017 --> 00:13:47,638
 Flower?.. Everyone
 tells me I’m a goddess!
 
-173
+175
 00:13:50,220 --> 00:13:54,120
 Are you talking about that man?..
 Who is he to you?
 
-174
+176
 00:13:54,321 --> 00:13:59,310
 Man? So, you saw him, Ajamila?
 
-175
+177
 00:14:00,963 --> 00:14:03,190
 I did.
 
-176
+178
 00:14:04,082 --> 00:14:06,682
 And now what?
 
-177
+179
 00:14:09,112 --> 00:14:10,805
 I don’t know.
 
-178
+180
 00:14:12,115 --> 00:14:16,626
 But I know. Shall I tell?
 
-179
+181
 00:14:21,845 --> 00:14:24,983
 Come close to me.
 I’ll whisper it in your ear.
 
-180
+182
 00:14:34,205 --> 00:14:37,800
 You probably also
 want to be with me here,
 
-181
+183
 00:14:37,800 --> 00:14:40,326
 in the forest,
 where no one sees us?..
 
-182
+184
 00:14:42,774 --> 00:14:46,359
 You probably also
 want me to love you?
 
-183
+185
 00:14:48,466 --> 00:14:51,630
 You know, I’m ready.
 
-184
+186
 00:14:52,605 --> 00:14:54,950
 Because I like you.
 
-185
+187
 00:14:56,560 --> 00:15:00,283
 Do you hear me?
 I’m ready, Ajamila. I’m ready.
 
-186
+188
 00:15:04,920 --> 00:15:11,220
 I will be very happy
 if you wear this.
 
-187
+189
 00:15:12,428 --> 00:15:14,155
 Is that for me?
 
-188
+190
 00:15:14,155 --> 00:15:16,145
 How lovely!
 
-189
+191
 00:15:18,145 --> 00:15:20,145
 Thank you.
 
-190
+192
 00:15:22,407 --> 00:15:27,378
 Why are you silent?
 Do you hear me?
 
-191
+193
 00:15:29,040 --> 00:15:32,910
 No… No!
 
-192
+194
 00:15:34,839 --> 00:15:38,699
 Well, ok then, no.
 
-193
+195
 00:15:38,699 --> 00:15:40,236
 Run home.
 
-194
+196
 00:15:40,488 --> 00:15:49,209
 And if you change your mind
 and want to find me, you will.
 
-195
+197
 00:15:49,493 --> 00:15:51,164
 only…
 
-196
+198
 00:15:51,206 --> 00:15:52,540
 What?
 
-197
+199
 00:15:52,540 --> 00:15:54,209
 Money
 
-198
+200
 00:15:54,209 --> 00:15:55,879
 what?
 
-199
+201
 00:15:55,879 --> 00:16:01,030
 Money. Coins.
 My love costs something.
 
-200
+202
 00:16:05,766 --> 00:16:12,537
 And if you don’t have any,
-nevermind, Brahman Ajamila.
+nevermind, Brahmin Ajamila.
 
-201
+203
 00:16:25,917 --> 00:16:30,740
 God! God! Is this a dream? No!
 
-202
+204
 00:16:30,740 --> 00:16:32,799
 Did this happen to me?
 
-203
+205
 00:16:33,013 --> 00:16:37,119
 I have my wife Kamali!
 Father… My path!
 
-204
+206
 00:16:37,119 --> 00:16:41,166
 What’s happening to me?
 
-205
+207
 00:17:14,892 --> 00:17:20,295
 Ajamila?! Where have you been?
 I almost died…
 
-206
+208
 00:17:20,733 --> 00:17:24,960
 Ajamila. What’s wrong with you?
 What happened?
 
-207
+209
 00:17:25,444 --> 00:17:26,874
 Nothing happened.
 
-208
+210
 00:17:26,874 --> 00:17:28,620
 Where were you?
 
-209
+211
 00:17:28,620 --> 00:17:30,679
 Collecting wood, flowers.
 
-210
+212
 00:17:30,679 --> 00:17:33,240
 Why did it take so long?
 
-211
+213
 00:17:33,240 --> 00:17:36,260
 Long? No, I was quick.
 
-212
+214
 00:17:36,260 --> 00:17:40,280
 Still, Ajamila, why so long?
 
-213
+215
 00:17:42,621 --> 00:17:45,881
 Nothing happened!
 It just turned out that way.
 
-214
+216
 00:17:45,887 --> 00:17:46,924
 Nothing happened!
 
-215
+217
 00:17:47,037 --> 00:17:52,818
 Everything is fine with me!
 Fine! All good!
 
-216
+218
 00:17:55,474 --> 00:18:02,004
 Ajamila!
 
-217
+219
 00:18:02,004 --> 00:18:03,956
-Brahman Ajamila!
+Brahmin Ajamila!
 
-218
+220
 00:18:03,956 --> 00:18:05,851
 I know you have money!
 
-219
+221
 00:18:05,851 --> 00:18:11,601
 There! Give it to me,
 and you’ll get something in return…
 
-220
+222
 00:19:01,744 --> 00:19:04,159
 I’m ready, Ajamila. Ready.
 
-221
+223
 00:19:04,159 --> 00:19:07,617
 Come to me! Forget everyone.
 
-222
+224
 00:19:07,617 --> 00:19:10,217
 Now you have only me
 in your life!
 
-223
+225
 00:19:10,310 --> 00:19:13,289
 I will give you what
 you’ve never experienced.
 
-224
+226
 00:19:13,289 --> 00:19:16,489
 Just come to me…
 
-225
+227
 00:19:23,252 --> 00:19:27,837
 Why didn’t we meet earlier?
 We are made for each other.
 
-226
+228
 00:19:27,837 --> 00:19:30,877
 Didn’t you realize that
 after our meeting?
 
-227
+229
 00:19:30,877 --> 00:19:34,877
 I am your fate.
 I am your real life…
 
-228
+230
 00:19:34,877 --> 00:19:37,239
 My embrace is gentler
 than your wife’s.
 
-229
+231
 00:19:37,239 --> 00:19:41,143
 Right, Ajamila?
 Don’t deceive yourself.
 
-230
+232
 00:19:41,328 --> 00:19:45,094
 I am much more skilled
 in love than she is.
 
-231
+233
 00:19:45,094 --> 00:19:49,476
 And how sweet my lips are!
 What are you waiting for?
 
-232
+234
 00:19:49,476 --> 00:19:51,630
 Taste them!
 
-233
+235
 00:20:43,365 --> 00:20:46,235
 Prabhu, are you awake?
 
-234
+236
 00:20:50,015 --> 00:20:54,298
 Why aren’t you getting up?
 Are you waiting for me?
 
-235
+237
 00:20:54,298 --> 00:20:55,688
 Yes.
 
-236
+238
 00:20:56,720 --> 00:21:01,128
 Kamali, get up, we need
 to perform the ritual today.
 
-237
+239
 00:21:01,128 --> 00:21:03,874
 We need to prepare.
 
-238
+240
 00:21:03,874 --> 00:21:07,254
 Yes, we do!
 
-239
+241
 00:21:38,849 --> 00:21:44,018
 You probably also
 want me to love you?
 
-240
+242
 00:21:44,018 --> 00:21:49,892
 You know, I’m ready.
 Because I like you.
 
-241
+243
 00:21:50,575 --> 00:21:51,965
 Do you hear me?
 
-242
+244
 00:21:52,084 --> 00:21:54,255
 Ajamila!
 
-243
+245
 00:21:58,817 --> 00:22:05,037
 Purnahuti
 
-244
+246
 00:22:06,072 --> 00:22:08,964
 The Lord joyfully entered
 your home.
 
-245
+247
 00:22:08,964 --> 00:22:11,511
 Let him stay here forever,
 
-246
+248
 00:22:11,511 --> 00:22:14,219
 and bring prosperity
 and peace with him.
 
-247
+249
 00:22:14,219 --> 00:22:16,877
 I am your destiny.
 I am your real life…
 
-248
+250
 00:22:17,105 --> 00:22:19,690
 Your blessings warm my heart.
 
-249
+251
 00:22:19,690 --> 00:22:20,690
 Thank you for them…
 
-250
+252
 00:22:20,690 --> 00:22:24,226
 And you are a lucky man!
 You have such a son — Ajamila!
 
-251
+253
 00:22:24,226 --> 00:22:26,617
 My embrace is gentler
 than your wife’s embrace.
 
-252
+254
 00:22:26,617 --> 00:22:28,103
 Right, Ajamila?
 
-253
+255
 00:22:28,103 --> 00:22:31,533
 Yes… Ajamila is my hope!
 
-254
+256
 00:22:31,533 --> 00:22:34,387
 I want him to become
 better than me.
 
-255
+257
 00:22:34,676 --> 00:22:37,310
 What are you waiting for?
 Taste them!
 
-256
+258
 00:22:37,397 --> 00:22:39,240
 Ajamila!.. Ajamila!
 
-257
+259
 00:22:39,240 --> 00:22:40,935
 Good sign, Ajamila!
 
-258
+260
 00:22:40,935 --> 00:22:44,105
 The Lord sends us a good sign.
 
-259
+261
 00:22:53,109 --> 00:22:54,859
 By the way!
 
-260
+262
 00:23:12,528 --> 00:23:18,176
 To you and your son, with heartfelt
 gratitude, Lochan Babu.
 
-261
+263
 00:23:20,045 --> 00:23:23,687
 Money! Money… Coins…!
 
-262
+264
 00:23:24,570 --> 00:23:28,100
 My love costs something…
 
-263
+265
 00:23:30,631 --> 00:23:34,642
 …He will have beautiful
 eyes like yours…
 
-264
+266
 00:23:34,642 --> 00:23:36,719
 And let the chin be
 like his grandfather’s.
 
-265
+267
 00:23:36,719 --> 00:23:38,158
 Okay.
 
-266
+268
 00:23:38,792 --> 00:23:40,829
 He will have beautiful
 long fingers…
 
-267
+269
 00:23:40,829 --> 00:23:44,941
 And when he grows up, he will be
 tall, even taller than you…
 
-268
+270
 00:23:45,643 --> 00:23:49,088
 Kamali, do you really think
 this is possible?
 
-269
+271
 00:23:49,088 --> 00:23:50,814
 My mother always said,
 
-270
+272
 00:23:50,814 --> 00:23:53,766
 that parents should
 first imagine their child,
 
-271
+273
 00:23:53,766 --> 00:23:55,497
 and only then give birth.
 
-272
+274
 00:23:55,497 --> 00:23:57,669
 The Lord will definitely
 give us such a son,
 
-273
+275
 00:23:57,669 --> 00:24:00,990
 as we create in our minds.
 
-274
+276
 00:24:00,990 --> 00:24:04,740
 Ajamila, it’s actually so simple!
 
-275
+277
 00:24:04,952 --> 00:24:06,928
 Well… maybe…
 
-276
+278
 00:24:06,928 --> 00:24:08,539
 Let’s sit down here!
 
-277
+279
 00:24:11,713 --> 00:24:14,825
 Madhava, Gopala…
 Narayana!
 
-278
+280
 00:24:14,825 --> 00:24:16,933
 That’s what we will
 call him, Ajamila…
 
-279
+281
 00:24:16,933 --> 00:24:18,451
 Our son…
 
-280
+282
 00:24:18,451 --> 00:24:22,633
 Our little boy…
 Our treasure.
 
-281
+283
 00:24:22,866 --> 00:24:27,416
 Narayana. It’s so affectionate.
 My Narayana!
 
-282
+284
 00:24:29,912 --> 00:24:31,870
 Have you already imagined him?
 
-283
+285
 00:24:31,870 --> 00:24:35,260
 Of course!
 I imagine him well.
 
-284
+286
 00:24:35,260 --> 00:24:36,731
 How do you manage that?
 
-285
+287
 00:24:36,731 --> 00:24:38,001
 What?
 
-286
+288
 00:24:38,001 --> 00:24:41,288
 Well… imagining, what his eyes,
 what his hands will be like.
 
-287
+289
 00:24:41,308 --> 00:24:43,335
 What name we’ll give him.
 
-288
+290
 00:24:43,335 --> 00:24:51,453
 I just close my eyes
 and see all this…
 
-289
+291
 00:25:09,995 --> 00:25:12,832
 Kamali, dear, let’s go home.
 
-290
+292
 00:25:12,832 --> 00:25:16,132
 Home, why? We are having
 such a good time walking.
 
-291
+293
 00:25:16,144 --> 00:25:18,326
 I’m feeling unwell.
 
-292
+294
 00:25:23,264 --> 00:25:24,732
 Something feels wrong…
 
-293
+295
 00:25:24,732 --> 00:25:26,142
 Is your head hurting?
 
-294
+296
 00:25:29,192 --> 00:25:31,578
 Prabhu, do you even hear me?
 
-295
+297
 00:25:31,578 --> 00:25:34,473
 Huh? What? Ah…
 I hear you, I hear.
 
-296
+298
 00:25:34,473 --> 00:25:38,265
 Yes, I hear you…
 
-297
+299
 00:25:53,138 --> 00:25:59,538
 Now everything will be fine.
 You will feel better soon.
 
-298
+300
 00:25:59,829 --> 00:26:02,780
 Just rest for a bit
 and you’ll feel better.
 
-299
+301
 00:26:25,504 --> 00:26:27,904
 Oh Lord, what’s happening to me?
 
-300
+302
 00:26:27,904 --> 00:26:29,568
 This has never happened before.
 
-301
+303
 00:26:29,568 --> 00:26:32,175
 Why can’t I get her
 out of my head?
 
-302
+304
 00:26:32,175 --> 00:26:34,443
 I don’t want this!
 Where is my mind?
 
-303
+305
 00:26:34,443 --> 00:26:37,686
 Where is my piety?
 What am I doing?
 
-304
+306
 00:26:37,686 --> 00:26:39,125
 It’s not too late to stop!
 
-305
+307
 00:26:39,613 --> 00:26:43,809
 My wife, my Kamali,
 I can’t treat her like this.
 
-306
+308
 00:26:43,809 --> 00:26:47,728
 You probably also want
 to be with me here in the forest,
 
-307
+309
 00:26:47,728 --> 00:26:51,815
 where no one sees us?
 Because I like you…
 
-308
+310
 00:26:52,794 --> 00:26:57,279
 …And if you want
 to find me, you will….
 
-309
+311
 00:26:57,279 --> 00:27:00,549
 …My love costs something….
 
-310
+312
 00:27:44,798 --> 00:27:53,558
 Forgive me. I can’t.
 Her hands, voice… I can’t…
 
-311
+313
 00:28:36,952 --> 00:28:42,006
 Well, you know, if you have money
 — come in, but if not…
 
-312
+314
 00:28:42,821 --> 00:28:46,821
 Not today, but I'll have it
 tomorrow… You know that.
 
-313
+315
 00:28:48,395 --> 00:28:51,657
 When you have it,
 then you can come…
 
-314
+316
 00:28:53,507 --> 00:28:55,918
 You can’t treat me like this,
 
-315
+317
 00:28:55,918 --> 00:28:59,296
 I won’t leave you today,
 I’ve left everything to come to you.
 
-316
+318
 00:28:59,311 --> 00:29:00,756
 Let me go! It hurts!
 
-317
+319
 00:29:00,756 --> 00:29:05,030
 "Let her go".
 Stop acting innocent!
 
-318
+320
 00:29:06,196 --> 00:29:07,886
 Let her go!
 
-319
+321
 00:29:08,609 --> 00:29:10,517
 Who are you?
 
-320
+322
 00:29:14,904 --> 00:29:18,657
 Well, come in since you’ve come.
 I’ve been waiting!
 
-321
+323
 00:29:18,854 --> 00:29:22,541
 Now I understand why
 you didn’t want to let me in!
 
-322
+324
 00:29:22,541 --> 00:29:27,131
 You were waiting for this…
-Brahman…
+Brahmin…
 
-323
+325
 00:29:29,636 --> 00:29:31,227
 And what about you?
 
-324
+326
 00:29:31,227 --> 00:29:35,647
 Me? Oh, I will leave
 and never come back again.
 
-325
+327
 00:29:36,864 --> 00:29:39,068
 And you… very soon
 
-326
+328
 00:29:39,068 --> 00:29:40,083
 …will turn into…
 
-327
+329
 00:29:40,083 --> 00:29:41,733
 Well?
 
-328
+330
 00:29:41,883 --> 00:29:45,173
 Into an old woman
 who no one needs!
 
-329
+331
 00:29:46,749 --> 00:29:49,102
-Be happy, Brahman.
+Be happy, Brahmin.
 
-330
+332
 00:29:53,078 --> 00:29:54,078
 We’ll meet again.
 
-331
+333
 00:30:11,240 --> 00:30:14,111
-Well, hello, Brahman Ajamila.
+Well, hello, Brahmin Ajamila.
 
-332
+334
 00:30:14,111 --> 00:30:15,111
 Hello… uh…
 
-333
+335
 00:30:15,111 --> 00:30:17,414
 Varsha.
 That’s my name.
 
-334
+336
 00:30:17,414 --> 00:30:19,224
 Hello, Varsha.
 
-335
+337
 00:30:19,287 --> 00:30:21,167
-I thought Brahmans
+I thought Brahmins
 sleep at this time.
 
-336
+338
 00:30:22,100 --> 00:30:24,779
-But look, Brahmans are
+But look, Brahmins are
 fully awake and wandering.
 
-337
+339
 00:30:24,779 --> 00:30:25,918
 Here…
 
-338
+340
 00:30:28,620 --> 00:30:30,109
 You’re not in a hurry?
 
-339
+341
 00:30:32,154 --> 00:30:36,443
 Well then, I am not
 in a hurry either. Let’s go…
 
-340
+342
 00:31:07,298 --> 00:31:11,395
 Ajamila…
 
-341
+343
 00:31:19,457 --> 00:31:23,668
 Well, come to me…
 
-342
+344
 00:31:37,655 --> 00:31:38,644
 Ajamila!
 
-343
+345
 00:31:38,644 --> 00:31:40,081
 Yes, Gurudev…
 
-344
+346
 00:31:40,081 --> 00:31:42,612
 Once long ago, I asked you…
 
-345
+347
 00:31:42,612 --> 00:31:47,142
 Are you ready to follow the principles
 of religion to the end of your life
 
-346
+348
 00:31:47,643 --> 00:31:49,647
 …What did you answer me then?
 
-347
+349
 00:31:49,647 --> 00:31:52,282
 That I am ready, Gurudev…
 
-348
+350
 00:32:57,066 --> 00:32:59,206
 Ajamila…
 
-349
+351
 00:33:37,494 --> 00:33:41,550
 Ajamila, is that it?
 
-350
+352
 00:33:41,550 --> 00:33:43,050
 What do you want?
 
-351
+353
 00:33:43,050 --> 00:33:45,935
 You were gone for almost a day,
 
-352
+354
 00:33:45,935 --> 00:33:49,655
 you come and just go to sleep?
 
-353
+355
 00:33:49,655 --> 00:33:51,954
 Do you want to
 tell me anything?
 
-354
+356
 00:33:53,761 --> 00:33:58,051
 No way, Ajamila.
 You will explain everything to me.
 
-355
+357
 00:33:58,051 --> 00:34:00,032
 Where have you been?
 
-356
+358
 00:34:00,032 --> 00:34:03,969
 Why did you make
 me and your wife worry?
 
-357
+359
 00:34:03,969 --> 00:34:07,195
 And where is the money
 that was donated to us?
 
-358
+360
 00:34:08,549 --> 00:34:09,716
 It was my money!
 
-359
+361
 00:34:09,716 --> 00:34:11,619
 I earned it!
 And now forget it!
 
-360
+362
 00:34:11,619 --> 00:34:13,253
 There’s no more money.
 
-361
+363
 00:34:13,920 --> 00:34:17,100
 How dare you raise
 your voice at me?
 
-362
+364
 00:34:17,811 --> 00:34:19,811
 Leave me alone!
 
-363
+365
 00:34:31,123 --> 00:34:32,835
 Let’s go, daughter…
 
-364
+366
 00:34:35,514 --> 00:34:37,286
 Let it be…
 
-365
+367
 00:34:49,600 --> 00:34:53,239
 Where were you? And where is
 the money that was donated to us?
 
-366
+368
 00:34:53,962 --> 00:34:55,420
 It was my money, I earned it,
 
-367
+369
 00:34:55,420 --> 00:34:59,536
 forget about it, there’s
 no more money! Leave me alone!
 
-368
+370
 00:34:59,956 --> 00:35:01,853
 Father!
 
-369
+371
 00:36:02,100 --> 00:36:05,605
 You left early in the morning,
 and now look — it’s noon.
 
-370
+372
 00:36:05,694 --> 00:36:07,468
 Only a little time has passed…
 
-371
+373
 00:36:08,321 --> 00:36:12,611
 I wanted to sleep, but I couldn’t.
 They didn’t let me…
 
-372
+374
 00:36:12,611 --> 00:36:14,751
 Who didn’t let you?
 
-373
+375
 00:36:14,751 --> 00:36:17,372
 Well, father and wife.
 
-374
+376
 00:36:20,110 --> 00:36:21,190
 Whose wife?
 
-375
+377
 00:36:21,608 --> 00:36:22,649
 Mine.
 
-376
+378
 00:36:24,250 --> 00:36:25,389
 So you’re married?
 
-377
+379
 00:36:26,865 --> 00:36:29,897
 Yes, but it’s nothing serious.
 
-378
+380
 00:36:32,246 --> 00:36:36,561
 Well, if it’s not serious for you,
 it’s even less so for me.
 
-379
+381
 00:36:59,106 --> 00:37:03,405
 So, you have a family…
 Good…
 
-380
+382
 00:37:03,405 --> 00:37:05,267
 And what did you tell them?
 
-381
+383
 00:37:08,664 --> 00:37:10,194
 What could I tell them?
 
-382
+384
 00:37:11,659 --> 00:37:14,874
 Do you not care?
 
-383
+385
 00:37:14,874 --> 00:37:16,915
 …not really.
 
-384
+386
 00:37:16,915 --> 00:37:19,743
 Though now it’s easier.
 
-385
+387
 00:37:19,743 --> 00:37:22,307
 Just three days ago,
 it was very hard for me.
 
-386
+388
 00:37:22,307 --> 00:37:24,234
 But then something changed.
 
-387
+389
 00:37:24,234 --> 00:37:25,819
 Something inside me burned out.
 
-388
+390
 00:37:26,381 --> 00:37:29,820
 I no longer want to think
 and weigh every step.
 
-389
+391
 00:37:29,820 --> 00:37:32,064
 And to be afraid of
 what others will say.
 
-390
+392
 00:37:32,064 --> 00:37:33,967
 I’ve done that my whole life.
 
-391
+393
 00:37:33,967 --> 00:37:38,813
 I want to breathe freely,
 to live without fear and remorse.
 
-392
+394
 00:37:39,712 --> 00:37:43,444
 After that meeting with you,
 there, in the forest…
 
-393
+395
 00:37:44,887 --> 00:37:48,472
 I couldn’t think of
 anything else but you.
 
-394
+396
 00:37:48,472 --> 00:37:50,861
 Neither my family nor my duties,
 
-395
+397
 00:37:51,600 --> 00:37:54,712
 nothing could make me
 forget you.
 
-396
+398
 00:37:54,712 --> 00:38:00,013
 your hands, your voice,
 your eyes.
 
-397
+399
 00:38:01,073 --> 00:38:04,503
 I don’t want to play the role of
 a faithful husband and loving son,
 
-398
+400
 00:38:04,503 --> 00:38:06,597
 when here is a burning
 fire inside me.
 
-399
+401
 00:38:06,597 --> 00:38:08,182
 I can’t, and I don’t want to.
 
-400
+402
 00:38:08,593 --> 00:38:11,119
 I just want to be with you,
 
-401
+403
 00:38:11,119 --> 00:38:13,353
 only with you.
 
-402
+404
 00:38:16,175 --> 00:38:17,956
 So what… have you
 fallen in love with me?
 
-403
+405
 00:38:17,956 --> 00:38:18,956
 Yes…
 
-404
+406
 00:38:20,641 --> 00:38:23,211
 Have you really found
 something special in me?
 
-405
+407
 00:38:23,211 --> 00:38:25,455
 Oh! You don’t even know
 how wonderful you are!
 
-406
+408
 00:38:25,989 --> 00:38:27,364
 You are my perfection.
 
-407
+409
 00:38:27,676 --> 00:38:29,444
 You are life itself to me!
 
-408
+410
 00:38:29,643 --> 00:38:32,155
 I just can’t live without you!
 
-409
+411
 00:38:32,694 --> 00:38:35,515
 I want to be only with you…
 only with you…
 
-410
+412
 00:38:41,690 --> 00:38:42,917
 Where is he?
 
-411
+413
 00:38:44,277 --> 00:38:46,082
 I just saw Ajamila…
 
-412
+414
 00:38:47,699 --> 00:38:51,530
 He went into the house
 of a well-known prostitute.
 
-413
+415
 00:38:51,819 --> 00:38:53,269
 I thought so.
 
-414
+416
 00:38:55,827 --> 00:38:58,071
 Will you go get him?
 
-415
+417
 00:38:58,071 --> 00:39:02,442
 No. He couldn’t be
 kept by a young wife,
 
-416
+418
 00:39:02,442 --> 00:39:06,376
 nor by the path of religion
 he has followed for so long.
 
-417
+419
 00:39:06,376 --> 00:39:11,116
 If he has made his choice,
 what can I do?
 
-418
+420
 00:39:11,116 --> 00:39:14,539
 It’s all my fault.
 
-419
+421
 00:39:16,077 --> 00:39:20,604
 I invested everything I had
 in Ajamila.
 
-420
+422
 00:39:22,463 --> 00:39:25,253
 But he made his own choice.
 
-421
+423
 00:39:26,538 --> 00:39:31,979
 In an instant, the Lord
 rid me of my pride,
 
-422
+424
 00:39:31,979 --> 00:39:35,999
 my hopes, my expectations…
 
-423
+425
 00:39:35,999 --> 00:39:39,721
 My good name…
 
-424
+426
 00:39:41,693 --> 00:39:47,833
 All I can do now is pray
 that the Lord doesn’t leave him.
 
-425
+427
 00:40:14,472 --> 00:40:17,900
 So what should we do?
 
-426
+428
 00:40:18,452 --> 00:40:20,041
 What do you mean?
 
-427
+429
 00:40:20,041 --> 00:40:22,629
 You’ve been living with me
 for several days now…
 
-428
+430
 00:40:23,916 --> 00:40:25,836
 Your money has long run out.
 
-429
+431
 00:40:25,836 --> 00:40:28,237
 And you don’t have
 any new money.
 
-430
+432
 00:40:30,133 --> 00:40:33,743
 And all my… admirers…
 You chased them away…
 
-431
+433
 00:40:34,449 --> 00:40:39,961
 If you’re worried about money,
 that’s not a problem for me.
 
-432
+434
 00:40:41,561 --> 00:40:45,346
 Really? That’s good news.
 
-433
+435
 00:40:46,471 --> 00:40:51,174
 Yes. It was never
 a problem for me.
 
-434
+436
 00:40:54,279 --> 00:40:56,507
 And where will we live?
 
-435
+437
 00:40:56,507 --> 00:40:58,267
 Live?..
 
-436
+438
 00:40:59,272 --> 00:41:03,497
 We can live at my place.
 
-437
+439
 00:41:04,131 --> 00:41:06,393
 I will bring you to my house.
 
-438
+440
 00:41:06,393 --> 00:41:08,936
 You’ll have a separate room.
 
-439
+441
 00:41:09,336 --> 00:41:12,652
 If you agree to be with me —
 I’ll provide for you.
 
-440
+442
 00:41:22,193 --> 00:41:25,978
-Tell me, do Brahmans chant
+Tell me, do Brahmins chant
 something every day?
 
-441
+443
 00:41:26,336 --> 00:41:28,504
 You have some mantras,
 don’t you?
 
-442
+444
 00:41:29,591 --> 00:41:30,591
 Three times a day…
 
-443
+445
 00:41:30,591 --> 00:41:34,284
 A hymn to praise the Sun God…
 
-444
+446
 00:41:34,284 --> 00:41:38,984
 Three times a day! When was
 the last time you chanted them?
 
-445
+447
 00:41:39,932 --> 00:41:51,677
 Well, probably last week.
 That was the last time.
 
-446
+448
 00:41:51,677 --> 00:41:54,947
 And then you found love?
 
-447
+449
 00:41:57,454 --> 00:42:01,061
 Oh come on,
 I really do love you.
 
-448
+450
 00:42:02,462 --> 00:42:06,973
 Love… I believe… You don’t
 give up everything like that…
 
-449
+451
 00:42:06,973 --> 00:42:07,931
 And I don’t…
 
-450
+452
 00:42:07,931 --> 00:42:10,253
 Okay, okay. I understand…
 
-451
+453
 00:42:10,699 --> 00:42:14,109
 Tell your family that
 I am… a maid.
 
-452
+454
 00:42:14,366 --> 00:42:17,255
 If they believe it,
 of course.
 
-453
+455
 00:42:17,255 --> 00:42:20,130
 Tell your wife…
 
-454
+456
 00:42:20,670 --> 00:42:23,350
 Although…
 Say whatever you want…
 
-455
+457
 00:42:23,350 --> 00:42:27,405
 But remember,
 I won’t work for you.
 
-456
+458
 00:42:28,047 --> 00:42:31,255
 You will be the one
 bringing money to me…
 
-457
+459
 00:42:31,255 --> 00:42:34,297
 For my love… Got it?
 
-458
+460
 00:42:36,447 --> 00:42:40,382
 We still have time left…
 How shall we spend it?
 
-459
+461
 00:42:40,382 --> 00:42:45,976
 Come up to me,
 I’ll whisper it in your ear.
 
-460
+462
 00:42:47,719 --> 00:42:49,849
 You know how much
 I adore you…
 
-461
+463
 00:43:30,003 --> 00:43:36,383
 Ajamila… You came!
 You're back!
 
-462
+464
 00:43:36,576 --> 00:43:38,996
 Is this your wife?
 
-463
+465
 00:43:39,586 --> 00:43:42,467
 Prabhu… Who is this woman?
 
-464
+466
 00:43:43,133 --> 00:43:46,166
 Kamali, meet Varsha.
 
-465
+467
 00:43:48,271 --> 00:43:50,428
 Why has she come
 to our house?
 
-466
+468
 00:43:50,428 --> 00:43:53,314
 She will help you
 with the household.
 
-467
+469
 00:43:54,769 --> 00:43:58,969
 Prabhu, am I not
 managing by myself?
 
-468
+470
 00:44:10,170 --> 00:44:13,987
 So what,
 am I going to live here?
 
-469
+471
 00:44:18,410 --> 00:44:19,398
 Yes…
 
-470
+472
 00:44:20,514 --> 00:44:25,047
 And… She…
 Where will she live?
 
-471
+473
 00:44:25,047 --> 00:44:27,197
 There…
 
-472
+474
 00:44:28,086 --> 00:44:30,247
 Ajamila, I need a bed here.
 
-473
+475
 00:44:30,910 --> 00:44:34,826
 I need shelves for my clothes
 and jewelry boxes.
 
-474
+476
 00:44:34,826 --> 00:44:37,460
 You will buy me jewelry,
 won’t you?
 
-475
+477
 00:44:37,460 --> 00:44:39,423
 I remember, you promised…
 
-476
+478
 00:44:41,351 --> 00:44:44,351
 And tell her
 not to hover over me.
 
-477
+479
 00:44:44,351 --> 00:44:48,591
 This is now my home too.
 And we will live here together.
 
-478
+480
 00:44:52,424 --> 00:44:54,497
 Wait… Where are you going?
 
-479
+481
 00:44:56,099 --> 00:44:58,022
 Now, every time she wants to cry,
 
-480
+482
 00:44:58,022 --> 00:45:00,041
 you’ll run to comfort her?
 
-481
+483
 00:45:00,041 --> 00:45:02,061
 Do you think that’s normal?
 
-482
+484
 00:45:02,636 --> 00:45:04,646
 She is my wife!
 
-483
+485
 00:45:05,307 --> 00:45:07,902
 And so?
 I need attention too.
 
-484
+486
 00:45:08,868 --> 00:45:11,340
 You don’t want
 to get me upset, do you?
 
-485
+487
 00:45:14,826 --> 00:45:16,261
 Okay.
 
-486
+488
 00:45:21,954 --> 00:45:26,490
 I want to spend tonight
 in the yard.
 
-487
+489
 00:45:27,357 --> 00:45:32,976
 I can no longer and do not want to
 stay in this house.
 
-488
+490
 00:45:33,993 --> 00:45:35,433
 Bring a bed out for me.
 
-489
+491
 00:45:40,429 --> 00:45:43,867
 Ajamila, come to your father.
 
-490
+492
 00:45:45,608 --> 00:45:48,539
 What is it, father?
 
-491
-00:45:51,525 --> 00:45:57,212
-My time has come, there is no one else
-for me to think about but the Lord.
+493
+00:45:51,519 --> 00:45:53,844
+My time has come,
 
-492
+494
+00:45:53,844 --> 00:45:57,211
+there is no one else for me
+to think about but the Lord.
+
+495
 00:45:57,212 --> 00:45:59,609
 And I won’t stay here anymore.
 
-493
+496
 00:46:01,479 --> 00:46:07,379
 I will leave… I hope
 it will be easier for you.
 
-494
+497
 00:46:08,646 --> 00:46:10,833
 Let’s go, daughter…
 
-495
+498
 00:46:28,788 --> 00:46:33,588
 Ajamila, it’s getting dark.
 It’s time for us to go to bed.
 
-496
+499
 00:46:34,093 --> 00:46:37,673
 And you know — I need
 all your attention and care.
 
-497
+500
 00:46:40,070 --> 00:46:43,222
 Alright. Ajamila,
 I am waiting for you…
 
-498
+501
 00:46:47,004 --> 00:46:48,386
 I am waiting for you…
 
-499
+502
 00:46:59,058 --> 00:47:02,961
 Father… Father… why?
 
-500
+503
 00:47:03,405 --> 00:47:07,985
 It hurts!
 It hurts so much!
 
-501
+504
 00:47:33,677 --> 00:47:37,232
 The stars are
 so beautiful tonight!
 
-502
+505
 00:47:38,573 --> 00:47:43,269
 They have always been like this,
 as long as I can remember.
 
-503
+506
 00:47:44,896 --> 00:47:48,841
 I look at them every day.
 
-504
+507
 00:47:50,278 --> 00:47:53,951
 My days are not like one another,
 
-505
+508
 00:47:54,457 --> 00:47:59,087
 but the stars
 always remain the same.
 
-506
+509
 00:48:01,218 --> 00:48:07,957
 Oh Supreme Lord,
 master of my life,
 
-507
+510
 00:48:07,957 --> 00:48:13,049
 You are unchanging,
 like the stars in the sky.
 
-508
+511
 00:48:14,155 --> 00:48:19,394
 And unchanging is
 Your love for us.
 
-509
+512
 00:48:19,954 --> 00:48:24,616
 Yet we, blinded by
 our own pain,
 
-510
+513
 00:48:25,015 --> 00:48:30,196
 cannot see Your love
 in our lives…
 
-511
+514
 00:48:31,694 --> 00:48:37,055
 Oh my Narayana,
 oh Merciful One,
 
-512
+515
 00:48:37,712 --> 00:48:40,620
 I ask You,
 
-513
+516
 00:48:40,620 --> 00:48:45,447
 help me to open my heart
 
-514
+517
 00:48:45,447 --> 00:48:50,617
 enter into it…
 I am waiting for You…
 
-515
+518
 00:48:54,305 --> 00:48:57,899
 Who is there?
 
-516
+519
 00:48:57,899 --> 00:49:03,070
 My Lord, is it You?
 
-517
+520
 00:49:03,177 --> 00:49:09,594
 I see You…
 I recognize You!
 
-518
+521
 00:49:10,737 --> 00:49:15,307
 How beautiful You are…
 
-519
+522
 00:49:16,979 --> 00:49:21,559
 You have come for me…
 
-520
+523
 00:49:22,181 --> 00:49:35,468
 You Yourself have come for me!
 I am ready to go.
 
-521
+524
 00:49:50,248 --> 00:49:56,321
 Father! Father! Father!
 
-522
+525
 00:49:59,688 --> 00:50:06,651
 Father! Father! Father!
 
-523
+526
 00:50:20,601 --> 00:50:24,317
 Your father died last night.
 
-524
+527
 00:50:28,092 --> 00:50:29,284
 Father!
 
-525
+528
 00:50:29,284 --> 00:50:34,588
 I pray to the Almighty give you
 spiritual wisdom and strength
 
-526
+529
 00:50:34,896 --> 00:50:38,488
 to never stray from the path of
 righteousness and virtue.
 
-527
+530
 00:50:38,488 --> 00:50:41,240
 Do not leave me,
 I need your strength.
 
-528
+531
 00:50:43,306 --> 00:50:48,205
 My blessings
 will never leave you, son,
 
-529
+532
 00:50:48,771 --> 00:50:51,702
 you can always count on me.
 
-530
+533
 00:50:51,702 --> 00:50:54,276
 And you will come to see me
 in the ashram, won’t you?
 
-531
+534
 00:50:54,276 --> 00:50:58,906
 Of course, son… We will
 see each other constantly.
 
-532
+535
 00:50:58,906 --> 00:51:02,201
 That’s good, that’s so good!
 
-533
+536
 00:51:07,786 --> 00:51:11,507
 Father!
 What have I done?
 
-534
+537
 00:51:11,507 --> 00:51:14,641
 …what have I done…
 
-535
+538
 00:51:16,474 --> 00:51:19,816
 Not only your father
 died tonight…
 
-536
+539
 00:51:19,816 --> 00:51:22,447
 Tonight, your wife also died.
 
-537
+540
 00:51:23,615 --> 00:51:27,495
 What? What are you saying,
 Kamali?..
 
-538
+541
 00:51:27,495 --> 00:51:32,768
 The Kamali who once
 married Ajamila,
 
-539
+542
 00:51:32,768 --> 00:51:35,632
 a man of duty and honor,
 no longer exists.
 
-540
+543
 00:51:37,244 --> 00:51:40,556
 I can no longer stay here…
 
-541
+544
 00:51:40,556 --> 00:51:42,775
 I want to leave.
 
-542
+545
 00:51:47,032 --> 00:51:48,998
 Are you letting me go?
 
-543
+546
 00:52:02,317 --> 00:52:08,168
 I let you go…
 Kamali…
 
-544
+547
 00:52:10,333 --> 00:52:13,156
 Thank you, Prabhu.
 Please forgive me.
 
-545
+548
 00:52:13,156 --> 00:52:17,856
 I couldn’t be
 the wife you deserved.
 
-546
+549
 00:52:20,634 --> 00:52:23,839
 No… You were…
 
-547
+550
 00:52:28,113 --> 00:52:31,313
 Kamali… Kamali…
 
-548
+551
 00:52:35,164 --> 00:52:40,465
 Forgive me if you can.
 
-549
+552
 00:54:18,352 --> 00:54:20,324
 We’ve run out of money.
 
-550
+553
 00:54:21,838 --> 00:54:25,314
 I know, you’ve told me already.
 
-551
+554
 00:54:26,839 --> 00:54:29,839
 And I need some more clothes.
 
-552
+555
 00:54:32,345 --> 00:54:38,625
 Yesterday, I received a piece of fabric,
 a pot of oil, and five silver coins.
 
-553
+556
 00:54:39,450 --> 00:54:41,908
 What can we give
 to the temple from this?
 
-554
+557
 00:54:41,926 --> 00:54:43,526
 I think three coins.
 
-555
+558
 00:54:45,552 --> 00:54:49,891
 Take these coins and give them
 to the head pujari.
 
-556
+559
 00:54:49,938 --> 00:54:51,078
 Yes, father.
 
-557
+560
 00:54:51,786 --> 00:54:56,750
 Daughter, can we manage with two coins
 and a pot of oil for a week?
 
-558
+561
 00:54:56,750 --> 00:54:58,102
 Of course, father.
 
-559
+562
 00:55:02,781 --> 00:55:04,120
 What shall we do?
 
-560
+563
 00:55:07,857 --> 00:55:11,934
 I don’t know, I’ll go
 and figure it out.
 
-561
+564
 00:55:12,815 --> 00:55:14,309
 Figure it out?
 
-562
+565
 00:55:14,983 --> 00:55:17,514
 Maybe it’s better
 I figure it out.
 
-563
+566
 00:55:18,043 --> 00:55:21,043
 Maybe I should invite
 someone over?
 
-564
+567
 00:55:22,151 --> 00:55:22,825
 What?
 
-565
+568
 00:55:24,856 --> 00:55:28,433
 Forget about that! I'll take care
 of everything! No guests!
 
-566
+569
 00:55:29,221 --> 00:55:33,370
 I’ll provide for you!
 And forget about your old profession!
 
-567
+570
 00:56:14,982 --> 00:56:18,092
 Do you think this junk
 is worth anything?
 
-568
+571
 00:56:18,904 --> 00:56:21,183
 Probably not.
 
-569
+572
 00:56:24,272 --> 00:56:27,272
 Then why do you have it?
 
-570
+573
 00:56:27,750 --> 00:56:30,008
 I’ll try to exchange it
 for some rice.
 
-571
+574
 00:56:30,008 --> 00:56:32,293
 Some rice…
 
-572
+575
 00:56:33,310 --> 00:56:40,205
 Tell me, dear, do you plan to
 feed me anything besides rice?
 
-573
+576
 00:56:46,535 --> 00:56:49,535
 I would love some fresh fish…
 
-574
+577
 00:56:50,281 --> 00:56:53,281
 Varsha, I’ve told you
 so many times!
 
-575
+578
 00:56:53,529 --> 00:56:57,481
 Varsha, Varsha.
 If you don’t want fish, fine.
 
-576
+579
 00:56:57,628 --> 00:56:59,431
 But I do.
 
-577
+580
 00:57:01,210 --> 00:57:05,175
 Fried… a bit spicy…
 mmm, it’s so delicious…
 
-578
+581
 00:57:09,534 --> 00:57:12,534
 Here’s what I’ll tell you,
 Ajamila.
 
-579
+582
 00:57:12,726 --> 00:57:14,953
 A month is a long time.
 
-580
+583
 00:57:14,953 --> 00:57:17,442
 Somehow we managed it.
 
-581
+584
 00:57:17,500 --> 00:57:20,227
 And I am going
 to keep living.
 
-582
+585
 00:57:20,967 --> 00:57:22,594
 But I am going to live…
 
-583
+586
 00:57:23,801 --> 00:57:25,557
 not like this.
 
-584
+587
 00:57:26,378 --> 00:57:27,854
 What do you mean?
 
-585
+588
 00:57:29,034 --> 00:57:32,713
 When I was alone,
 I only relied on myself.
 
-586
+589
 00:57:33,602 --> 00:57:38,498
 But now I have you.
 So, please, provide for me.
 
-587
+590
 00:57:39,767 --> 00:57:42,283
 Especially since…
 
-588
+591
 00:57:43,406 --> 00:57:46,406
 I’ll have to eat more soon.
 
-589
+592
 00:57:46,989 --> 00:57:49,771
 Why? Are you planning
 to gain weight?
 
-590
+593
 00:57:50,040 --> 00:57:52,213
 No, but I must…
 
-591
+594
 00:57:55,732 --> 00:57:57,480
 Why are you
 looking at me like that?
 
-592
+595
 00:57:57,898 --> 00:58:01,898
 We’re going to have a child.
 A little Ajamila.
 
-593
+596
 00:58:05,797 --> 00:58:11,229
 Kamali, my girl, you’ve been living
 with us for a year now
 
-594
+597
 00:58:11,277 --> 00:58:14,512
 Do you ever feel hungry
 or in need?
 
-595
+598
 00:58:14,512 --> 00:58:15,950
 Of course not, father.
 
-596
+599
 00:58:15,950 --> 00:58:17,784
 I’m completely satisfied
 with my life.
 
-597
+600
 00:58:17,784 --> 00:58:19,474
 I don’t need money.
 
-598
+601
 00:58:19,474 --> 00:58:22,000
 I love you both
 with all my heart
 
-599
+602
 00:58:22,000 --> 00:58:23,657
 You are my treasure
 
-600
+603
 00:58:24,773 --> 00:58:25,906
 but…
 
-601
+604
 00:58:26,596 --> 00:58:28,433
 But what?
 
-602
+605
 00:58:28,433 --> 00:58:31,517
 Well this righteous
-Brahman Ajamila…
+Brahmin Ajamila…
 
-603
+606
 00:58:31,517 --> 00:58:33,709
 simply won't
 give me a son.
 
-604
+607
 00:58:33,739 --> 00:58:37,764
 Did you hear that,
-righteous Brahman?
+righteous Brahmin?
 
-605
+608
 00:58:37,764 --> 00:58:39,529
 Alright, alright, father!
 
-606
+609
 00:58:39,529 --> 00:58:42,370
 I’ll give you grandchildren.
 Lots of them.
 
-607
+610
 00:58:42,371 --> 00:58:44,320
 Well, say something?
 
-608
+611
 00:58:44,320 --> 00:58:46,166
 You don’t know where
 babies come from?
 
-609
+612
 00:58:47,348 --> 00:58:50,348
 Or do you think you
 didn’t take part in this?
 
-610
+613
 00:58:52,027 --> 00:58:55,367
 No, just…
 
-611
+614
 00:58:55,405 --> 00:58:59,405
 I’m happy Varsha,
 very happy… Very happy.
 
-612
+615
 00:59:01,056 --> 00:59:02,785
 I have always wanted a son.
 
-613
+616
 00:59:02,785 --> 00:59:05,468
 Really? Are you
 telling me the truth?
 
-614
+617
 00:59:05,692 --> 00:59:08,136
 You always wanted a son?
 
-615
+618
 00:59:08,843 --> 00:59:12,818
 I promise, you will have a son
 when the time comes. Just…
 
-616
+619
 00:59:14,308 --> 00:59:19,032
 Only rice won’t be enough.
 Do you understand, Ajamila?
 
-617
+620
 00:59:33,246 --> 00:59:38,200
 Look what I have…
 Please, buy them …
 
-618
+621
 00:59:41,117 --> 00:59:46,381
 It’s for puja.
 Maybe you’ll buy it? No…
 
-619
+622
 00:59:48,077 --> 00:59:51,077
 Look, it’s very cheap…
 
-620
-00:59:51,493 --> 00:59:57,045
+623
+00:59:51,487 --> 00:59:53,791
 Good paraphernalia.
-Almost new… Would you like to buy?
+Almost new…
 
-621
+624
+00:59:53,796 --> 00:59:56,796
+Would you like to buy?
+
+625
 01:00:02,914 --> 01:00:05,303
 Dear sir!
 
-622
+626
 01:00:06,483 --> 01:00:10,169
 I want to offer you
 a very valuable item.
 
-623
+627
 01:00:17,560 --> 01:00:20,497
 Well, if you don’t want it,
 nevermind. I’ll go.
 
-624
+628
 01:00:20,567 --> 01:00:24,630
 Wait… Ajamila, is that you?!
 
-625
+629
 01:00:25,794 --> 01:00:28,794
 I haven’t seen you in a while
 
-626
+630
 01:00:28,826 --> 01:00:32,697
 but I heard about
 your wife, father…
 
-627
+631
 01:00:34,191 --> 01:00:35,909
 but I understand…
 
-628
+632
 01:00:35,909 --> 01:00:38,002
 You don’t understand…
 
-629
+633
 01:00:38,104 --> 01:00:40,375
 No one understands me!
 
-630
+634
 01:00:40,437 --> 01:00:42,421
 When I was good
 in people’s eyes,
 
-631
+635
 01:00:42,421 --> 01:00:44,960
 everyone greeted me,
 everyone was happy to see me.
 
-632
+636
 01:00:44,960 --> 01:00:48,260
 Hello, Ajamila!
 Will you perform a ritual for us?
 
-633
+637
 01:00:48,272 --> 01:00:50,972
 But when I started living
 the way I want, what happened?
 
-634
+638
 01:00:50,972 --> 01:00:54,272
 Everyone stopped even looking
 at me! Afraid of sin!
 
-635
+639
 01:00:55,000 --> 01:00:57,558
 Yes, I am living with
 the woman I love,
 
-636
+640
 01:00:57,558 --> 01:00:59,660
 and want to be happy with her!
 
-637
+641
 01:00:59,660 --> 01:01:02,660
 So what? Universal hatred?
 
-638
+642
 01:01:02,660 --> 01:01:04,484
 Everyone wanted the right Ajamila,
 
-639
+643
 01:01:04,501 --> 01:01:07,501
 but I want to be myself!
 
-640
+644
 01:01:07,656 --> 01:01:10,656
 Can I do anything
 for you, Ajamila?
 
-641
+645
 01:01:13,588 --> 01:01:16,103
 Buy this from me.
 
-642
+646
 01:01:19,237 --> 01:01:20,943
 You have no money?
 
-643
+647
 01:01:21,700 --> 01:01:24,511
 Please just buy it.
 I’ll buy food for my family.
 
-644
+648
 01:01:24,511 --> 01:01:26,862
 That’s why I came here.
 
-645
+649
 01:01:30,602 --> 01:01:33,003
 Please take it.
 
-646
+650
 01:01:37,891 --> 01:01:39,904
 Thank you.
 
-647
+651
 01:02:16,698 --> 01:02:18,242
 There!
 
-648
+652
 01:02:26,697 --> 01:02:29,874
 Fish… So much… Why?
 
-649
+653
 01:02:29,935 --> 01:02:32,935
 Why? You asked for fish!
 
-650
+654
 01:02:33,252 --> 01:02:38,011
 Fry some fish for yourself,
 Varsha. And for me…
 
-651
+655
 01:02:38,984 --> 01:02:41,703
 Did I hear that right?
 
-652
+656
 01:02:41,832 --> 01:02:44,048
 You heard right.
 
-653
+657
 01:02:48,530 --> 01:02:51,530
 You’re changing, Ajamila.
 
-654
+658
 01:03:00,152 --> 01:03:03,152
 You never used to eat fish…
 What happened?
 
-655
+659
 01:03:04,888 --> 01:03:07,888
 There is new Ajamila.
 
-656
+660
 01:03:09,330 --> 01:03:12,330
 The old one is gone.
 
-657
+661
 01:03:18,073 --> 01:03:21,073
 So, how was your day?
 Successful?
 
-658
+662
 01:03:36,606 --> 01:03:40,599
 Although, you don’t have to say,
 your face says it all.
 
-659
+663
 01:03:45,097 --> 01:03:48,097
 Was today successful?
 
-660
+664
 01:03:49,369 --> 01:03:52,079
 Absolutely!
 
-661
+665
 01:04:01,622 --> 01:04:04,622
 Dear sir,
 are you playing fair?
 
-662
+666
 01:04:05,227 --> 01:04:07,322
 You want to insult me,
 esteemed one?
 
-663
+667
 01:04:07,529 --> 01:04:09,821
 Honesty is my middle name!
 
-664
+668
 01:04:09,997 --> 01:04:12,268
 Well then, let’s play.
 
-665
+669
 01:04:12,620 --> 01:04:15,620
 Now we’re talking!
 And do you have money?
 
-666
+670
 01:04:16,429 --> 01:04:18,682
 Of course, I do.
 
-667
+671
 01:04:19,240 --> 01:04:23,416
 Dice don’t like playing for nothing!
 Dice need respect!
 
-668
+672
 01:04:25,343 --> 01:04:27,695
 So, shall we play?
 
-669
+673
 01:04:41,622 --> 01:04:43,657
 I won!
 
-670
+674
 01:04:48,476 --> 01:04:52,204
 Alright! You’re lucky today.
 Move aside, let another try.
 
-671
+675
 01:04:52,967 --> 01:04:55,967
 I want to play too!
 I’ll bet one coin!
 
-672
+676
 01:04:58,800 --> 01:05:01,800
 Alright, let’s do it.
 
-673
+677
 01:05:09,181 --> 01:05:11,181
 He won! He won!
 
-674
+678
 01:05:11,181 --> 01:05:14,181
 Well done!
 
-675
+679
 01:05:14,502 --> 01:05:17,502
 Brother, you’re lucky today.
 
-676
+680
 01:05:23,940 --> 01:05:26,211
 One more time.
 
-677
+681
 01:05:28,056 --> 01:05:31,056
 If only luck would
 come my way!
 
-678
+682
 01:05:41,451 --> 01:05:45,034
 Maybe I should play too?
 Maybe I’ll get lucky?
 
-679
+683
 01:05:46,746 --> 01:05:51,582
 Ah, shame I didn’t bring money.
 I would play too!
 
-680
+684
 01:05:53,241 --> 01:05:57,188
 Well, well, well…
 What did he roll?
 
-681
+685
 01:05:58,927 --> 01:06:01,927
 Ah, he lost.
 I knew it, he’s a loser.
 
-682
+686
 01:06:02,263 --> 01:06:04,855
 Tough luck for you!
 
-683
+687
 01:06:04,947 --> 01:06:07,947
 It’s alright, honorable one,
 next time you’ll get luck.
 
-684
+688
 01:06:08,114 --> 01:06:11,114
 Let’s get out of here,
 why stand, staring? Let’s go.
 
-685
+689
 01:06:11,671 --> 01:06:14,671
 Come on, hang in there.
 
-686
+690
 01:06:17,039 --> 01:06:21,417
 Money and greed —
 a beautiful combination,
 
-687
+691
 01:06:21,747 --> 01:06:24,747
 when you know how to use them.
 
-688
+692
 01:06:27,801 --> 01:06:29,002
 How’s our baby?
 
-689
+693
 01:06:29,035 --> 01:06:31,646
 He’s moving non-stop.
 
-690
+694
 01:06:44,620 --> 01:06:49,331
 Married to a Brahmin.
 Who would imagine?
 
-691
+695
 01:07:50,448 --> 01:07:52,981
 Good day, pilgrims.
 
-692
+696
 01:07:53,129 --> 01:07:55,349
 Peace be upon you, good sir.
 
-693
+697
 01:07:55,349 --> 01:07:58,349
 Where are you heading?
 
-694
+698
 01:07:58,349 --> 01:08:02,919
 We’re visiting holy places.
 Heading to blessed Prayag now.
 
-695
+699
 01:08:06,076 --> 01:08:08,515
 Our pilgrimage has come to an end.
 
-696
+700
 01:08:08,515 --> 01:08:14,247
 We're going to rest today, take a bath,
 and tomorrow we will…
 
-697
+701
 01:08:14,247 --> 01:08:17,223
 …perform auspicious rituals
 and feed the Brahmins.
 
-698
+702
 01:08:17,223 --> 01:08:21,223
 Right! To mark the end
 of our journey!
 
-699
+703
 01:08:21,386 --> 01:08:24,386
 As the sacred texts say.
 
-700
+704
 01:08:27,484 --> 01:08:33,511
 Why are you, a healthy man, leading
 the blind and giving them your time?
 
-701
+705
 01:08:33,642 --> 01:08:36,109
 You’re like in prison with them!
 
-702
+706
 01:08:36,109 --> 01:08:37,868
 You’re not your own master.
 
-703
+707
 01:08:37,868 --> 01:08:40,719
 Walking with them,
 caring for them.
 
-704
+708
 01:08:40,832 --> 01:08:44,423
 You can’t leave them
 even for a minute.
 
-705
+709
 01:08:44,457 --> 01:08:45,629
 What else is human life for?
 
-706
+710
 01:08:45,629 --> 01:08:48,500
 If not to help others
 and serve the Lord
 
-707
+711
 01:08:48,569 --> 01:08:50,524
 how else should we
 spend our time?
 
-708
+712
 01:08:50,629 --> 01:08:54,828
 Time should be spent wisely.
 Not wandering aimlessly.
 
-709
+713
 01:08:55,856 --> 01:08:57,822
 These people are my destiny.
 
-710
+714
 01:08:57,881 --> 01:09:00,792
 Together, we visit holy places
 and pray to the Lord.
 
-711
+715
 01:09:02,747 --> 01:09:04,390
 Dad, you’re a Brahmin yourself,
 
-712
+716
 01:09:04,492 --> 01:09:06,818
 are you going to make
 gifts to yourself?
 
-713
+717
 01:09:07,340 --> 01:09:11,723
 Even though we’re Brahmins,
 we too must engage in charity
 
-714
+718
 01:09:12,388 --> 01:09:17,479
 and use all money for
 serving the Lord and holy people.
 
-715
+719
 01:09:19,566 --> 01:09:22,566
 Now let’s check your bags,
 
-716
+720
 01:09:23,656 --> 01:09:26,001
 shake your clothes a little.
 
-717
+721
 01:09:26,662 --> 01:09:28,875
 Maybe a coin will jingle!
 
-718
+722
 01:09:29,051 --> 01:09:32,153
 No! Leave these people in peace!
 We won’t touch anyone!
 
-719
+723
 01:09:32,296 --> 01:09:35,296
 What? If you can’t do it
 yourself, don’t stop us.
 
-720
+724
 01:09:36,894 --> 01:09:39,894
 Look at that brahmin…
 
-721
+725
 01:09:45,901 --> 01:09:51,711
 So, so… aha… what’s this?
 Come on, let’s see…
 
-722
+726
 01:09:52,917 --> 01:09:56,493
 Come on, show me,
 what’s in your bag?
 
-723
+727
 01:09:58,611 --> 01:10:02,851
 Maybe hiding something
 in your turban? Come on, show it!
 
-724
+728
 01:10:02,927 --> 01:10:05,122
 Aha, what about you?
 
-725
+729
 01:10:07,679 --> 01:10:10,679
 You too, turn around.
 
-726
+730
 01:10:11,820 --> 01:10:15,699
 Look at this, said
 they were poor pilgrims!
 
-727
+731
 01:10:15,890 --> 01:10:18,890
 Look, I found a coin too.
 
-728
+732
 01:10:21,260 --> 01:10:23,399
 Look at that, not bad…
 
-729
+733
 01:10:25,702 --> 01:10:29,373
 Here you go…
 Alright, go now…
 
-730
+734
 01:10:46,948 --> 01:10:49,792
 Ajamila, what in the world?
 
-731
+735
 01:10:49,941 --> 01:10:53,446
 In our profession,
 your cowardice can cost a life.
 
-732
+736
 01:10:53,862 --> 01:10:56,862
 Either you’re with us
 or you can go to hell.
 
-733
+737
 01:11:00,663 --> 01:11:01,311
 So?
 
-734
+738
 01:11:04,724 --> 01:11:06,254
 Okay…
 
-735
+739
 01:11:06,442 --> 01:11:08,034
 Okay what?
 
-736
+740
 01:11:09,231 --> 01:11:11,441
 I’m with you…
 
-737
+741
 01:11:18,048 --> 01:11:19,917
 I’m with you.
 
-738
+742
 01:11:19,917 --> 01:11:23,715
 That’s good, Ajamila.
 But remember…
 
-739
+743
 01:11:23,715 --> 01:11:26,715
 There won’t be a second time.
 
-740
+744
 01:11:43,503 --> 01:11:44,762
-Brahman
+Brahmin
 
-741
+745
 01:11:46,598 --> 01:11:48,142
 Who are you?
 
-742
+746
 01:11:49,095 --> 01:11:51,101
 Om Tat Sat
 
-743
+747
 01:11:51,991 --> 01:11:54,991
 Swaha. Purnahuti.
 
-744
+748
 01:12:01,419 --> 01:12:06,044
 Leave them! Empty…
 
-745
+749
 01:12:07,418 --> 01:12:10,418
 Om Tat Sat
 
-746
+750
 01:12:11,691 --> 01:12:15,372
 Om Tat Sat
 
-747
+751
 01:12:18,263 --> 01:12:22,270
 Let’s go to Prayag!
 
-748
+752
 01:12:25,334 --> 01:12:29,007
 Of course, on foot
 
-749
+753
 01:12:30,561 --> 01:12:33,561
 God is with us
 
-750
+754
 01:12:35,119 --> 01:12:39,607
-Used to be a Brahman, now robber…
+Used to be a Brahmin, now robber…
 
-751
+755
 01:12:39,765 --> 01:12:44,025
 with a knife. And they’re pilgrims…
 
-752
+756
 01:12:44,309 --> 01:12:48,686
-Be damned, Brahman Ajamila!
+Be damned, Brahmin Ajamila!
 
-753
+757
 01:12:49,283 --> 01:12:52,283
 Be damned!
 
-754
+758
 01:13:35,947 --> 01:13:38,566
 Who invented that wine?
 
-755
+759
 01:13:38,732 --> 01:13:42,840
 It’s tough with it,
 and tough without it.
 
-756
+760
 01:13:43,588 --> 01:13:46,588
 What, can’t get yesterday’s
 blind men out of your head?
 
-757
+761
 01:13:50,498 --> 01:13:53,291
 It was hard for me at first too.
 
-758
+762
 01:13:53,360 --> 01:13:57,320
 They’re holy pilgrims,
 and we rob them.
 
-759
+763
 01:13:58,095 --> 01:13:59,246
 And then?
 
-760
+764
 01:13:59,807 --> 01:14:02,807
 Then I got used to it,
 it became easier.
 
-761
+765
 01:14:03,171 --> 01:14:06,824
 It’s my job,
 and their fate.
 
-762
+766
 01:14:08,411 --> 01:14:11,411
 The past doesn’t let go easily.
 
-763
+767
 01:14:12,219 --> 01:14:13,945
 It will.
 
-764
+768
 01:14:15,941 --> 01:14:18,941
 Yeah, the sooner the better.
 
-765
+769
 01:14:31,640 --> 01:14:33,340
 Give me the money!
 
-766
+770
 01:14:36,026 --> 01:14:40,123
 Do you hear me? Or I’ll finish off
 your whole miserable family!
 
-767
+771
 01:14:40,161 --> 01:14:42,405
 Where’s the money, I said!
 
-768
+772
 01:15:12,486 --> 01:15:14,412
 This is for you.
 
-769
+773
 01:15:39,140 --> 01:15:40,125
 Where did you get them?
 
-770
+774
 01:15:42,222 --> 01:15:45,222
 Doesn’t matter.
 It’s for you.
 
-771
+775
 01:15:47,226 --> 01:15:49,824
 I know you didn’t buy these.
 
-772
+776
 01:15:49,917 --> 01:15:52,625
 But you know I can’t
 wear this on the street.
 
-773
+777
 01:15:52,701 --> 01:15:55,104
 Someone will surely
 recognize their jewelry.
 
-774
+778
 01:15:57,195 --> 01:16:00,195
 Then why did you bring it?
 
-775
+779
 01:16:01,952 --> 01:16:05,595
 Listen, your occupation
 becomes very dangerous.
 
-776
+780
 01:16:06,010 --> 01:16:09,010
 The town is buzzing with talk
 about robbers in the forest.
 
-777
+781
 01:16:11,310 --> 01:16:13,733
 The king has already sent
 a squad of his best warriors,
 
-778
+782
 01:16:13,971 --> 01:16:16,155
 to catch the robbers
 and bring them to trial.
 
-779
+783
 01:16:16,463 --> 01:16:19,463
 And the king has already come up
 with most terrible punishment…
 
-780
+784
 01:16:19,875 --> 01:16:20,691
 What is that?
 
-781
+785
 01:16:20,948 --> 01:16:24,072
 The king ordered the robbers to
 have their hands and feet severed.
 
-782
+786
 01:16:24,072 --> 01:16:27,072
 But spare their lives
 as a warning to others.
 
-783
+787
 01:17:34,701 --> 01:17:39,641
 So better get rid of this…
 Give it to jewelers to melt it down.
 
-784
+788
 01:19:53,008 --> 01:19:56,008
 Kamali… is that you?
 
-785
+789
 01:20:10,889 --> 01:20:13,109
 Kamali… how… why…
 
-786
+790
 01:20:13,267 --> 01:20:16,919
 Sir, you’re mistaken.
 That woman is dead.
 
-787
+791
 01:20:17,892 --> 01:20:19,706
 I’m just a simple beggar.
 
-788
+792
 01:20:21,038 --> 01:20:23,276
 Sir, we’re just beggars.
 
-789
+793
 01:20:24,814 --> 01:20:27,814
 Keep going your way.
 This is not a place for you.
 
-790
+794
 01:20:48,094 --> 01:20:52,219
 Ajamila, Kamali’s fate
 is on your hands…
 
-791
+795
 01:20:52,437 --> 01:20:55,437
 Don’t forget that.
 
-792
+796
 01:20:56,387 --> 01:21:00,014
 Sir, you’re mistaken.
 That woman is dead.
 
-793
+797
 01:21:44,847 --> 01:21:46,408
 Hello Varsha.
 
-794
+798
 01:21:47,940 --> 01:21:50,705
 I see… brought the debt?
 
-795
+799
 01:21:51,042 --> 01:21:52,594
 Yes, of course!
 
-796
+800
 01:21:59,874 --> 01:22:01,833
 Good! What else?
 
-797
+801
 01:22:01,876 --> 01:22:03,124
 I missed you.
 
-798
+802
 01:22:04,045 --> 01:22:07,869
 Missed me? Maybe also say
 you’re crazy about me,
 
-799
+803
 01:22:08,131 --> 01:22:10,148
 And that you can’t live
 without me?
 
-800
+804
 01:22:10,308 --> 01:22:11,015
 Exactly.
 
-801
+805
 01:22:14,008 --> 01:22:17,008
 So maybe you’ll even
 marry me, huh?
 
-802
+806
 01:22:34,165 --> 01:22:37,165
 Maybe you’ll let
 an old friend inside?
 
-803
+807
 01:22:44,010 --> 01:22:47,010
 What if Ajamila comes?
 
-804
+808
 01:22:47,702 --> 01:22:48,905
 He won’t come.
 
-805
+809
 01:22:50,601 --> 01:22:52,807
 But what if he does?
 
-806
+810
 01:22:53,651 --> 01:22:55,294
 He won’t come.
 
-807
+811
 01:23:12,459 --> 01:23:15,459
 Father, look how beautiful
 it is here!
 
-808
+812
 01:23:18,419 --> 01:23:21,145
 What… what are you doing?
 
-809
+813
 01:23:21,240 --> 01:23:24,240
 Wait! Wait! I’ll give you
 all the money!
 
-810
+814
 01:23:25,370 --> 01:23:28,370
 Son, my boy…
 
-811
+815
 01:23:29,593 --> 01:23:31,899
 He’s dead.
 You killed him.
 
-812
+816
 01:23:32,657 --> 01:23:33,771
 What makes you say that?
 
-813
+817
 01:23:34,944 --> 01:23:38,741
 Hey! Get up! Wake up!
 
-814
+818
 01:23:39,462 --> 01:23:42,462
 Wake up, open your eyes…
 
-815
+819
 01:23:46,278 --> 01:23:49,278
 …I didn’t mean to…
 
-816
+820
 01:23:49,874 --> 01:23:51,262
 didn’t mean to…
 
-817
+821
 01:23:51,941 --> 01:23:54,941
 no… no… not this…
 
-818
+822
 01:23:55,650 --> 01:24:00,600
 His wife and children are waiting…
 Do you have children?
 
-819
+823
 01:24:08,052 --> 01:24:09,626
 Dad, are you leaving already?
 
-820
+824
 01:24:10,834 --> 01:24:12,383
 Will you bring gifts?
 
-821
+825
 01:24:18,722 --> 01:24:21,056
 Will you take this money
 to your family?
 
-822
+826
 01:24:21,374 --> 01:24:24,500
 Don’t preach to me about morals!
 
-823
-01:24:24,500 --> 01:24:27,483
+827
+01:24:24,505 --> 01:24:27,488
 I know everything myself!
 I didn’t mean to kill! I didn’t want to!
 
-824
+828
 01:24:27,568 --> 01:24:31,355
 I only need money!
 Nothing else! Just the money!
 
-825
+829
 01:24:32,197 --> 01:24:37,468
 I don’t need your miserable lives!
 I don’t need anything! Nothing!
 
-826
-01:24:40,540 --> 01:24:45,282
+830
+01:24:40,540 --> 01:24:42,906
 Will you take this money to your family?
+
+831
+01:24:42,906 --> 01:24:45,282
 Do you think they’ll be happier?
 
-827
+832
 01:24:45,282 --> 01:24:49,812
 You want to make someone happy,
 by killing and bringing grief to others?
 
-828
+833
 01:25:00,200 --> 01:25:03,895
 Well, I’m leaving.
 I have to go.
 
-829
+834
 01:25:08,277 --> 01:25:11,277
 Yes, of course.
 
-830
+835
 01:25:29,280 --> 01:25:31,131
 Here, take this.
 
-831
+836
 01:26:42,060 --> 01:26:45,401
 I think we’ll have
 another son.
 
-832
+837
 01:26:45,402 --> 01:26:49,100
 What, Ajamila? We already
 have so many sons.
 
-833
+838
 01:26:49,856 --> 01:26:52,427
 I want us to have a daughter.
 
-834
+839
 01:26:52,754 --> 01:26:55,754
 And we’ll name her…
 Kumari.
 
-835
+840
 01:26:56,199 --> 01:27:00,228
 In honor of
 Lord Mahadeva’s wife.
 
-836
+841
 01:27:05,411 --> 01:27:07,622
 Prabhu, I respect the sages,
 
-837
+842
 01:27:07,692 --> 01:27:10,940
 but I’d really love our son
 to have the name of the Lord
 
-838
+843
 01:27:10,940 --> 01:27:11,497
 but…
 
-839
+844
 01:27:11,497 --> 01:27:14,497
 No, Don’t argue.
 The name of God.
 
-840
+845
 01:27:15,136 --> 01:27:17,094
 Please. Don’t argue.
 
-841
+846
 01:27:17,632 --> 01:27:20,632
 Alright, alright.
 
-842
+847
 01:27:30,079 --> 01:27:33,474
 Madhava… Gopala…
 Narayana!
 
-843
+848
 01:27:34,105 --> 01:27:34,975
 What Narayana?
 
-844
+849
 01:27:34,982 --> 01:27:37,982
 That will be his name, Ajamila.
 Our son.
 
-845
+850
 01:27:38,549 --> 01:27:41,549
 Our little boy…
 Our treasure.
 
-846
+851
 01:27:42,960 --> 01:27:44,222
 Narayana.
 
-847
+852
 01:27:45,501 --> 01:27:46,687
 No.
 
-848
+853
 01:27:46,987 --> 01:27:51,606
 Our son’s name will be Narayana.
 That will bring us luck.
 
-849
+854
 01:27:52,748 --> 01:27:57,127
 Ajamila, if you want
 to philosophize, go outside.
 
-850
+855
 01:27:57,463 --> 01:27:59,532
 I am going to sleep.
 
-851
+856
 01:28:13,437 --> 01:28:16,437
 Dad! Dad! You’re back!
 
-852
+857
 01:28:19,230 --> 01:28:20,491
 I love you my boy!
 
-853
+858
 01:28:21,433 --> 01:28:22,954
 I love you too, dad.
 
-854
+859
 01:28:23,577 --> 01:28:24,934
 Where are your brothers?
 
-855
+860
 01:28:25,279 --> 01:28:26,495
 They went to the river.
 
-856
+861
 01:28:27,248 --> 01:28:28,537
 Why didn’t you go with them?
 
-857
+862
 01:28:28,537 --> 01:28:31,537
 It’s boring with them.
 I was waiting for you, dad.
 
-858
+863
 01:28:52,354 --> 01:28:54,227
 Dad, catch!
 
-859
+864
 01:29:00,175 --> 01:29:05,503
 Dad, come on throw it…
 Dad, seriously.
 
-860
+865
 01:29:09,264 --> 01:29:11,889
 Dad, that’s not fair!
 
-861
+866
 01:29:12,143 --> 01:29:15,143
 Always be on guard!
 Then you can win!
 
-862
+867
 01:29:47,517 --> 01:29:49,905
 Why are you so sad, dad?
 
-863
+868
 01:29:50,857 --> 01:29:53,857
 Nothing… all fine.
 
-864
+869
 01:29:54,745 --> 01:29:57,745
 I’ll go…
 take some rest.
 
-865
+870
 01:30:13,036 --> 01:30:21,235
 Ajamila, why did you do that…
 You killed me, Ajamila…
 
-866
+871
 01:30:22,480 --> 01:30:29,782
 Be damned… Are you happy now?
 Ajamila… Ajamila…
 
-867
+872
 01:30:29,782 --> 01:30:36,479
 Why did you do that?
 Now you'll have a different life…
 
-868
+873
 01:30:37,147 --> 01:30:40,732
 Come with us… Ajamila….
 
-869
+874
 01:30:40,732 --> 01:30:42,312
 Don’t touch me!
 
-870
+875
 01:30:42,312 --> 01:30:44,334
 You robbed me…
 You betrayed me!
 
-871
+876
 01:30:44,334 --> 01:30:49,050
 Leave me alone…
 I didn’t mean to kill you…
 
-872
+877
 01:30:49,525 --> 01:30:52,525
 Don’t touch… Murderer…
 
-873
+878
 01:30:52,619 --> 01:30:55,619
 Stop, go away!
 
-874
+879
 01:30:55,892 --> 01:31:00,731
 I didn’t want to,
 didn’t want to!
 
-875
+880
 01:31:00,927 --> 01:31:07,379
 Be damned…
 Why…
 
-876
+881
 01:31:41,157 --> 01:31:43,738
 What happened, son?
 
-877
+882
 01:31:44,036 --> 01:31:49,079
 You fainted and mom said
 that you had a stroke.
 
-878
+883
 01:31:56,066 --> 01:32:00,569
 Narayana, my boy!
 Do not leave me.
 
-879
+884
 01:32:01,716 --> 01:32:03,670
 I’m scared!
 
-880
+885
 01:32:05,510 --> 01:32:08,062
 I love you Narayana
 
-881
+886
 01:32:08,416 --> 01:32:12,940
 I love your mom
 and your brothers
 
-882
+887
 01:32:13,418 --> 01:32:19,569
 Out of love for you
 I’ve done many things…
 
-883
+888
 01:32:19,738 --> 01:32:23,463
 which is why I’m so scared now…
 
-884
+889
 01:32:24,923 --> 01:32:29,085
 Money! Where’s the money?
 Give me the money!
 
-885
+890
 01:32:29,162 --> 01:32:32,348
 Or I’ll finish all your
 miserable family!!
 
-886
+891
 01:32:32,371 --> 01:32:36,517
 Where is the money I ask?
 I need more! Give me all the money!
 
-887
+892
 01:33:01,604 --> 01:33:05,144
 Would the Lord do that for me?
 Father, did you hear?
 
-888
+893
 01:33:05,144 --> 01:33:06,970
 I will not leave this path!
 
-889
+894
 01:33:06,970 --> 01:33:08,666
 Never? Never!
 
-890
+895
 01:33:08,666 --> 01:33:13,531
 And you will get something in return…
 It’s all my fault…
 
-891
+896
 01:33:13,531 --> 01:33:16,021
 Come to me…
 
-892
+897
 01:33:16,021 --> 01:33:19,445
 Sir, you are mistaken.
 That woman died.
 
-893
+898
 01:33:19,445 --> 01:33:22,725
 Go bring me rice, fish, vegetables —
 I have nothing to feed the children!
 
-894
+899
 01:33:22,756 --> 01:33:26,751
 I hate you, I hate you!!
 Hate you! Hate you!!
 
-895
+900
 01:33:29,283 --> 01:33:31,890
 You, it’s because of you!
 
-896
+901
 01:33:32,066 --> 01:33:36,403
 Shut up! Better remember
 who came to me first.
 
-897
+902
 01:33:36,777 --> 01:33:39,608
 Who told me about love,
 promised something?
 
-898
+903
 01:33:39,608 --> 01:33:42,608
 Brought me money,
 5 silver coins.
 
-899
+904
 01:33:43,199 --> 01:33:45,718
 Who searched for me all night
 like a madman?
 
-900
+905
 01:33:45,718 --> 01:33:48,718
 Who brought me here?
 
-901
+906
 01:33:49,724 --> 01:33:54,509
 It was you, Ajamila, you.
 So you better be quiet.
 
-902
+907
 01:33:54,509 --> 01:33:58,959
 I just helped you to fulfill
 what you dreamed of.
 
-903
+908
 01:34:03,894 --> 01:34:06,894
 Dad, is everything okay?
 
-904
+909
 01:34:08,556 --> 01:34:11,556
 Too late.
 
-905
+910
 01:34:13,869 --> 01:34:17,390
 It’s too late to change anything.
 
-906
+911
 01:34:21,220 --> 01:34:24,220
 My life is coming to an end.
 
-907
+912
 01:34:29,152 --> 01:34:35,609
 I’ve done too much
 that won’t let me die in peace.
 
-908
+913
 01:35:41,794 --> 01:35:44,794
 Well, not much.
 
-909
+914
 01:35:52,475 --> 01:35:54,257
 Where are you going?
 
-910
+915
 01:35:55,582 --> 01:35:58,582
 Money won’t fall
 from the sky on us.
 
-911
+916
 01:36:00,449 --> 01:36:03,449
 Yes, that’s for sure.
 
-912
+917
 01:36:42,670 --> 01:36:47,144
 Thief! Thief! Get out of here!
 Murderer! Go away! Thief!
 
-913
+918
 01:36:47,524 --> 01:36:52,247
 That’s the same godless man!
 Look at this rascal!
 
-914
+919
 01:36:52,300 --> 01:36:54,417
 Thief! Thief!
 This is not a place for you!
 
-915
+920
 01:36:54,417 --> 01:36:59,010
 Comes with a child and thinks
 everyone will forget about what he did?
 
-916
+921
 01:36:59,010 --> 01:37:02,548
 Get out! Get out of here!
 Keep walking!
 
-917
+922
 01:37:02,548 --> 01:37:05,548
 This is not a place for you!
 
-918
+923
 01:37:05,548 --> 01:37:07,890
 Who does he think we are?
 Don’t even come near us!
 
-919
+924
 01:37:07,890 --> 01:37:10,890
 Go, go! Get away from here!
 Look what he’s thinking!
 
-920
+925
 01:37:10,890 --> 01:37:14,263
 Leave! You’ve lost your decency!
 This is our place!
 
-921
+926
 01:37:14,263 --> 01:37:17,623
 This is our place! Rascal!
 There’s nothing for you!
 
-922
+927
 01:37:17,931 --> 01:37:20,931
 Why did they chase you away?
 Why do they hate you?
 
-923
+928
 01:37:21,107 --> 01:37:24,107
 This is their place, son.
 We’re not welcomed there.
 
-924
+929
 01:37:24,117 --> 01:37:28,870
 But no one can claim the road
 for themselves. It is public!
 
-925
+930
 01:37:29,723 --> 01:37:35,556
 It’s okay, son. It’s okay.
 I’ll sit by myself. You go.
 
-926
+931
 01:37:41,498 --> 01:37:43,001
 You go.
 
-927
+932
 01:37:43,779 --> 01:37:46,779
 I can stay with you, dad.
 
-928
+933
 01:37:47,227 --> 01:37:51,110
 I won’t be bored.
 I will sing. Sa, Re, Ga, Ma!
 
-929
+934
 01:37:52,675 --> 01:37:55,675
 No, son, you better go.
 
-930
+935
 01:37:56,319 --> 01:37:58,354
 Come back for me
 in the evening.
 
-931
+936
 01:37:58,981 --> 01:38:01,981
 I need to be alone…
 
-932
+937
 01:38:02,416 --> 01:38:08,587
 Okay, dad. I will go.
 Wait for me, don’t get sad.
 
-933
+938
 01:38:11,767 --> 01:38:14,767
 Hello, beggar Ajamila.
 
-934
+939
 01:38:15,243 --> 01:38:18,243
 Today your new life has begun.
 
-935
+940
 01:38:56,747 --> 01:38:59,747
 Is it hard for you, Ajamila?
 
-936
+941
 01:39:02,931 --> 01:39:06,833
 You are not young anymore…
 Must have seen a lot, haven’t you?
 
-937
+942
 01:39:08,006 --> 01:39:11,006
 Yes, I’ve seen a lot.
 
-938
+943
 01:39:11,935 --> 01:39:16,718
 You wanted happiness, but instead
 you’re afraid to look people in the eyes.
 
-939
+944
 01:39:17,630 --> 01:39:20,072
 I know…
 
-940
+945
 01:39:20,072 --> 01:39:22,349
 You chose this life for yourself.
 
-941
+946
 01:39:22,349 --> 01:39:25,349
 …stop it!
 Why are you torturing me?
 
-942
+947
 01:39:25,758 --> 01:39:28,758
 Don’t you need help?
 
-943
+948
 01:39:29,101 --> 01:39:33,659
 I’m not young, I have
 a heavy burden on my back.
 
-944
+949
 01:39:34,309 --> 01:39:37,309
 Only death will help.
 
-945
+950
 01:39:54,547 --> 01:39:57,547
 Here we are, Ajamila!
 
-946
+951
 01:39:57,856 --> 01:40:00,856
 We’ve been waiting for you
 for so long!
 
-947
+952
 01:40:06,289 --> 01:40:09,289
 Who, who are you?
 
-948
+953
 01:40:09,521 --> 01:40:15,226
 Your new friends!..
 Don’t be afraid of us!…
 
-949
+954
 01:40:16,380 --> 01:40:19,380
 What do you want from me?
 
-950
+955
 01:40:21,994 --> 01:40:26,111
 Where are you going, we haven’t
 properly introduced ourselves yet.
 
-951
+956
 01:40:26,526 --> 01:40:31,221
 No, no… Where… Don’t…
 Where are you taking me?
 
-952
+957
 01:40:31,305 --> 01:40:37,153
 Home! To the underworld! It’s time to
 appear before Yamaraja’s court!
 
-953
-01:40:37,152 --> 01:40:44,375
+958
+01:40:37,153 --> 01:40:44,375
 No… I haven’t finished yet,
 I still have so much to do.
 
-954
+959
 01:40:44,394 --> 01:40:47,394
 All your work is already finished.
 
-955
+960
 01:40:50,847 --> 01:40:53,915
 I have a family,
 I have a little son.
 
-956
+961
 01:40:53,915 --> 01:40:57,904
 Narayana!! Narayana!!
 NARAYANA!!!
 
-957
+962
 01:40:57,921 --> 01:41:00,921
 Stop!
 
-958
+963
 01:41:01,429 --> 01:41:03,062
 Who are you?
 
-959
+964
 01:41:03,062 --> 01:41:07,225
 And how dare you interfere with us,
 the servants of Yamaraja?!
 
-960
+965
 01:41:07,272 --> 01:41:09,293
 God of death!
 
-961
+966
 01:41:09,293 --> 01:41:12,070
 We are the messengers of
 the Supreme Lord Narayana.
 
-962
+967
 01:41:12,070 --> 01:41:15,702
 Let go of this man,
 he is no longer in your power.
 
-963
+968
 01:41:16,408 --> 01:41:19,408
 Let go of whom, Ajamila?
 
-964
+969
 01:41:19,441 --> 01:41:22,745
 The Earth did not know
 a greater sinner than him.
 
-965
+970
 01:41:23,135 --> 01:41:30,365
-He was a Brahman, but fell for
+He was a Brahmin, but fell for
 a prostitute and became a criminal.
 
-966
+971
 01:41:30,374 --> 01:41:35,544
 The darkest, most terrifying
 regions of hell await for him!
 
-967
+972
 01:41:35,544 --> 01:41:38,544
 Ajamila has already atoned
 for all his sins.
 
-968
+973
 01:41:38,745 --> 01:41:42,745
 In despair, he spoke
 the Holy Name of Lord Narayana!
 
-969
+974
 01:41:43,239 --> 01:41:47,783
 Sins are atoned by tough
 austerities and penances.
 
-970
+975
 01:41:47,783 --> 01:41:53,062
 And him saying the Holy Name
 is accidental!
 
-971
+976
 01:41:53,134 --> 01:41:57,556
 He was just calling his son!
 Yes Yes!!
 
-972
+977
 01:41:58,592 --> 01:42:01,592
 Like fire burns dry grass to ashes,
 
-973
+978
 01:42:01,603 --> 01:42:05,349
 so is the Holy Name of the Lord —
 burns away all the sinful reactions,
 
-974
+979
 01:42:06,187 --> 01:42:09,187
 even if it is said unintentionally.
 
-975
+980
 01:42:09,453 --> 01:42:12,453
 You must release this man!
 
-976
+981
 01:42:13,741 --> 01:42:16,569
 Okay, you win.
 
-977
+982
 01:42:16,697 --> 01:42:20,578
 Well, buddy,
 we’ll see you soon!
 
-978
+983
 01:42:20,743 --> 01:42:23,743
 We’ll come back for you.
 
-979
+984
 01:42:26,940 --> 01:42:31,978
 Lord, Lord… I’ve done nothing
 worthwile in my entire life,
 
-980
+985
 01:42:32,446 --> 01:42:36,462
 I only sinned, I only tarnished
 the name of Brahmins.
 
-981
+986
 01:42:37,234 --> 01:42:42,058
 But You, You’ve sent
 your great servants,
 
-982
+987
 01:42:42,151 --> 01:42:47,567
 and they were able to save me
 from the hands of death. You saved me.
 
-983
+988
 01:42:47,975 --> 01:42:54,009
 I promise you — this old Ajamila
 will never forget you again!
 
-984
+989
 01:42:55,544 --> 01:42:59,479
 I promise to never again
 return to my past life!
 
-985
+990
 01:42:59,592 --> 01:43:02,592
 Never. Never.
 
-986
+991
 01:43:03,588 --> 01:43:06,588
 You gave me another chance!
 
-987
+992
 01:43:06,658 --> 01:43:09,658
 Your Holy Name saved me.
 
-988
+993
 01:43:09,955 --> 01:43:13,299
 Your Holy Name is
 infinitely merciful…
 
-989
+994
 01:43:14,310 --> 01:43:21,057
 Dad, dad, wait!
 The city is the other way.
 
-990
+995
 01:43:21,189 --> 01:43:25,163
 I’m leaving, son. I’m leaving to
 dedicate my life to the Lord.
 
-991
+996
 01:43:25,279 --> 01:43:28,279
 Lord Narayana?
 
-992
+997
 01:43:28,434 --> 01:43:31,434
 Yes, son. Lord Narayana.
 
-993
+998
 01:43:32,573 --> 01:43:35,258
 Where will you go?
 
-994
+999
 01:43:35,335 --> 01:43:38,335
 I lived my life in vain,
 I spent so many years in sin.
 
-995
+1000
 01:43:40,150 --> 01:43:43,150
 Now I am leaving
 for Haridwar, Narayana.
 
-996
+1001
 01:43:43,294 --> 01:43:45,887
 To stay there forever.
 
-997
+1002
 01:43:45,965 --> 01:43:48,965
 And never, never
 ever stop serving the Lord.
 
-998
+1003
 01:43:50,681 --> 01:43:55,036
 I’m leaving, son.
 Goodbye Narayana…
 
-999
+1004
 01:43:55,114 --> 01:43:58,114
 Goodbye son…
 
-1000
+1005
 01:44:21,837 --> 01:44:24,246
 Dad, dad…
